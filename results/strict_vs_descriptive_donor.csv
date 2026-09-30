@@ -1,0 +1,13 @@
+﻿model,cohort,pairs,T_strict_donor,T_descriptive_donor,N-near_strict_donor,N-near_descriptive_donor
+idefics3,old_300,600,240,1,72,0
+idefics3,new_500,1000,382,1,151,2
+qwen9b,old_300,600,57,0,0,0
+qwen9b,new_500,1000,114,1,8,0
+qwen,old_300,600,47,0,5,0
+qwen,new_500,1000,85,0,13,0
+internvl35,old_300,600,106,34,6,3
+internvl35,new_500,1000,184,70,13,6
+pixtral12b,old_300,600,0,108,0,17
+pixtral12b,new_500,1000,0,194,0,17
+llava15,old_300,600,192,2,144,1
+llava15,new_500,1000,316,6,257,5

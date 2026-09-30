@@ -1,0 +1,17 @@
+[
+  {
+    "target_id": "T0395",
+    "category": "microwave",
+    "issue": "Missing category in frozen Chinese aliases; do not infer unreadability from other scores."
+  },
+  {
+    "target_id": "T0563",
+    "category": "microwave",
+    "issue": "Missing category in frozen Chinese aliases; do not infer unreadability from other scores."
+  },
+  {
+    "target_id": "T0659",
+    "category": "microwave",
+    "issue": "Missing category in frozen Chinese aliases; do not infer unreadability from other scores."
+  }
+]

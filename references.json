@@ -1,0 +1,397 @@
+[
+  {
+    "label": "2508.04059",
+    "url": "https://arxiv.org/abs/2508.04059",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Beyond the Visible: Benchmarking Occlusion Perception in Multimodal Large Language Models"
+      ],
+      "citation_author": [
+        "Liu, Zhaochen",
+        "Gao, Kaiwen",
+        "Liang, Shuyi",
+        "Xiao, Bin",
+        "Qiao, Limeng",
+        "Ma, Lin",
+        "Jiang, Tingting"
+      ],
+      "citation_date": [
+        "2025/08/06"
+      ],
+      "citation_online_date": [
+        "2025/08/06"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2508.04059"
+      ],
+      "citation_arxiv_id": [
+        "2508.04059"
+      ],
+      "citation_abstract": [
+        "Occlusion perception, a critical foundation for human-level spatial understanding, embodies the challenge of integrating visual recognition and reasoning. Though multimodal large language models (MLLMs) have demonstrated remarkable capabilities, their performance on occlusion perception remains under-explored. To address this gap, we introduce O-Bench, the first visual question answering (VQA) benchmark specifically designed for occlusion perception. Based on SA-1B, we construct 1,365 images featuring semantically coherent occlusion scenarios through a novel layered synthesis approach. Upon this foundation, we annotate 4,588 question-answer pairs in total across five tailored tasks, employing a reliable, semi-automatic workflow. Our extensive evaluation of 22 representative MLLMs against the human baseline reveals a significant performance gap between current MLLMs and humans, which, we find, cannot be sufficiently bridged by model scaling or thinking process. We further identify three typical failure patterns, including an overly conservative bias, a fragile gestalt prediction, and a struggle with quantitative tasks. We believe O-Bench can not only provide a vital evaluation tool for occlusion perception, but also inspire the development of MLLMs for better visual intelligence. Our benchmark will be made publicly available upon paper publication."
+      ]
+    },
+    "title": "[2508.04059] Beyond the Visible: Benchmarking Occlusion Perception in Multimodal Large Language Models",
+    "text_file": "2508.04059.txt"
+  },
+  {
+    "label": "2406.10900",
+    "url": "https://arxiv.org/abs/2406.10900",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "AutoHallusion: Automatic Generation of Hallucination Benchmarks for Vision-Language Models"
+      ],
+      "citation_author": [
+        "Wu, Xiyang",
+        "Guan, Tianrui",
+        "Li, Dianqi",
+        "Huang, Shuaiyi",
+        "Liu, Xiaoyu",
+        "Wang, Xijun",
+        "Xian, Ruiqi",
+        "Shrivastava, Abhinav",
+        "Huang, Furong",
+        "Boyd-Graber, Jordan Lee",
+        "Zhou, Tianyi",
+        "Manocha, Dinesh"
+      ],
+      "citation_date": [
+        "2024/06/16"
+      ],
+      "citation_online_date": [
+        "2024/10/09"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2406.10900"
+      ],
+      "citation_arxiv_id": [
+        "2406.10900"
+      ],
+      "citation_abstract": [
+        "Large vision-language models (LVLMs) are prone to hallucinations, where certain contextual cues in an image can trigger the language module to produce overconfident and incorrect reasoning about abnormal or hypothetical objects. While some benchmarks have been developed to investigate LVLM hallucinations, they often rely on hand-crafted corner cases whose failure patterns may not generalize well. Additionally, fine-tuning on these examples could undermine their validity. To address this, we aim to scale up the number of cases through an automated approach, reducing human bias in crafting such corner cases. This motivates the development of AutoHallusion, the first automated benchmark generation approach that employs several key strategies to create a diverse range of hallucination examples. Our generated visual-question pairs pose significant challenges to LVLMs, requiring them to overcome contextual biases and distractions to arrive at correct answers. AutoHallusion enables us to create new benchmarks at the minimum cost and thus overcomes the fragility of hand-crafted benchmarks. It also reveals common failure patterns and reasons, providing key insights to detect, avoid, or control hallucinations. Comprehensive evaluations of top-tier LVLMs, e.g., GPT-4V(ision), Gemini Pro Vision, Claude 3, and LLaVA-1.5, show a 97.7% and 98.7% success rate of hallucination induction on synthetic and real-world datasets of AutoHallusion, paving the way for a long battle against hallucinations. The codebase and data can be accessed at https://github.com/wuxiyang1996/AutoHallusion."
+      ]
+    },
+    "title": "[2406.10900] AutoHallusion: Automatic Generation of Hallucination Benchmarks for Vision-Language Models",
+    "text_file": "2406.10900.txt"
+  },
+  {
+    "label": "2512.11899",
+    "url": "https://arxiv.org/abs/2512.11899",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Read or Ignore? A Unified Benchmark for Typographic-Attack Robustness and Text Recognition in Vision-Language Models"
+      ],
+      "citation_author": [
+        "Waseda, Futa",
+        "Yamabe, Shojiro",
+        "Shiono, Daiki",
+        "Sasaki, Kento",
+        "Takahashi, Tsubasa"
+      ],
+      "citation_date": [
+        "2025/12/10"
+      ],
+      "citation_online_date": [
+        "2026/07/21"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2512.11899"
+      ],
+      "citation_arxiv_id": [
+        "2512.11899"
+      ],
+      "citation_abstract": [
+        "Large vision-language models (LVLMs) are vulnerable to typographic attacks, where misleading text inserted into an image can override visual understanding. However, existing evaluation protocols and defenses are largely focused on object recognition and do not consider text-reading capability. This is a critical oversight: real-world scenarios often require both recognizing objects and reading scene text (e.g., recognizing pedestrians while reading traffic signs), where simply ignoring all text for robustness is unacceptable in practice. To address this gap, we introduce a novel task, Read-or-Ignore VQA (RIO-VQA), which jointly evaluates both requirements: models must decide, from context, when to read scene text and when to ignore inserted distractor text. To evaluate this capability, we present RIO-Bench, a same-scene counterfactual benchmark that holds the scene fixed while varying only question intent (object vs. text) and text condition (clean vs. attack), enabling direct comparisons of model behaviors with reduced confounding factors. Using RIO-Bench, we highlight a trade-off: representative defenses developed in object-centric settings can achieve robustness by suppressing text sensitivity, at the cost of text-reading performance (i.e., \"ignoring\" text). Motivated by this trade-off, we provide a data-driven defense baseline that improves both requirements on RIO-Bench, complementing prior text-ignoring baselines. Overall, this work highlights a fundamental misalignment between the current object-centric robustness scope and real-world multimodal requirements, providing a principled path toward reliable LVLMs."
+      ]
+    },
+    "title": "[2512.11899] Read or Ignore? A Unified Benchmark for Typographic-Attack Robustness and Text Recognition in Vision-Language Models",
+    "text_file": "2512.11899.txt"
+  },
+  {
+    "label": "2511.21397",
+    "url": "https://arxiv.org/abs/2511.21397",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Understanding the Effects of Distractors on Reasoning Vision-Language Models"
+      ],
+      "citation_author": [
+        "Bae, Jiyun",
+        "Ok, Hyunjong",
+        "Mo, Sangwoo",
+        "Lee, Jaeho"
+      ],
+      "citation_date": [
+        "2025/11/26"
+      ],
+      "citation_online_date": [
+        "2026/09/14"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2511.21397"
+      ],
+      "citation_arxiv_id": [
+        "2511.21397"
+      ],
+      "citation_abstract": [
+        "How does irrelevant information (i.e., distractors) affect test-time scaling in vision-language models (VLMs)? Prior work on text-only language models has shown that textual distractors can intensify inverse scaling, causing models to reason longer but less effective reasoning traces. In this work, we investigate whether similar phenomena arise in multimodal settings. We introduce Idis (Images with distractors), a visual question-answering dataset that systematically varies distractors along semantic and numerical dimensions. Our analyses reveal that visual distractors affect reasoning VLMs in a fundamentally different way from textual distractors: although inverse scaling still emerges, visual distractors reduce accuracy without increasing reasoning length. We further show that attribute counts extracted from reasoning traces provide key insights into how distractors interact with reasoning length and accuracy. As a sanity check, we propose a simple prompting strategy that mitigates distractor-driven predictions in reasoning vision-language models."
+      ]
+    },
+    "title": "[2511.21397] Understanding the Effects of Distractors on Reasoning Vision-Language Models",
+    "text_file": "2511.21397.txt"
+  },
+  {
+    "label": "2605.12574",
+    "url": "https://arxiv.org/abs/2605.12574",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "DistractMIA: Black-Box Membership Inference on Vision-Language Models via Semantic Distraction"
+      ],
+      "citation_author": [
+        "Tang, Hongyi",
+        "Zhu, Zhihao",
+        "Yang, Yi"
+      ],
+      "citation_date": [
+        "2026/05/12"
+      ],
+      "citation_online_date": [
+        "2026/05/12"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2605.12574"
+      ],
+      "citation_arxiv_id": [
+        "2605.12574"
+      ],
+      "citation_abstract": [
+        "Vision-language models (VLMs) are trained on large-scale image-text corpora that may contain private, copyrighted, or otherwise sensitive data, motivating membership inference as a tool for training-data auditing. This is especially challenging for deployed VLMs, where auditors typically observe only generated textual responses. Existing VLM membership inference attacks either rely on probability-level signals unavailable in such settings, or use mask-based semantic prediction tasks whose effectiveness depends on object-centric visual assumptions. To address these limitations, we propose DistractMIA, an output-only black-box framework based on semantic distraction. Rather than removing visual evidence, DistractMIA preserves the original image, inserts a known semantic distractor, and measures how generated responses change. This design is motivated by the intuition that member samples remain more anchored to the original image semantics, while non-member samples are more easily redirected toward the distractor. To make this signal reliable, DistractMIA calibrates distractor configurations on a reference set and derives membership scores from repeated textual generations, capturing response stability and distractor uptake without accessing logits, probabilities, or hidden states. Experiments across multiple VLMs and benchmarks show that DistractMIA consistently outperforms both output-only and stronger-access baselines. Its performance on a medical benchmark further demonstrates applicability beyond object-centric natural images."
+      ]
+    },
+    "title": "[2605.12574] DistractMIA: Black-Box Membership Inference on Vision-Language Models via Semantic Distraction",
+    "text_file": "2605.12574.txt"
+  },
+  {
+    "label": "2606.30393",
+    "url": "https://arxiv.org/abs/2606.30393",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "SADL: What to Ignore? A Benchmark for Subject-Aware Distractor Localization"
+      ],
+      "citation_author": [
+        "Nguyen, Cao-Tri",
+        "Luong, Nguyen-Khoa",
+        "Nguyen, Vinh-Tiep",
+        "Tran, Minh-Triet"
+      ],
+      "citation_date": [
+        "2026/06/29"
+      ],
+      "citation_online_date": [
+        "2026/06/29"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2606.30393"
+      ],
+      "citation_arxiv_id": [
+        "2606.30393"
+      ],
+      "citation_abstract": [
+        "Photographs frequently contain \\emph{visual distractors} besides foregrounds and backgrounds of the intended subject, competing for attention and weakening composition. While modern editing tools streamline object removal, identifying which objects to remove remains a mostly manual process. Existing saliency models and open-vocabulary detectors operate without subject awareness, failing to adapt to shifting user intent. Furthermore, context-agnostic removal may disrupt the scene's semantic coherence (e.g., keep the person but remove the chair they are sitting on). To address these limitations, we formalize the task of subject-aware distractor localization, which identifies distractors while retaining compositionally essential objects. This paper introduces \\textsc{SADL}, the first real-world benchmark for this task, comprising 1,800 subject-aware cases across 1,000 photographs to enable systematic evaluation and facilitate future research. In total, there are 14,617 annotated candidates, including a robust set of 1,938 hard negatives to stress-test exclusion calibration. We evaluate seven proprietary and open-weight Vision-Language Models (VLMs) on a sequential pipeline of distractor classification followed by exclusion filtering, structured around five inclusion factors and three contextual exclusion rules. Our analysis reveals that VLMs are highly capable of identifying distractors, but then over-apply exclusion, which systematically suppresses true distractors at scale. By exposing this critical bottleneck, \\textsc{SADL} provides a foundational diagnostic tool to advance subject-conditioned reasoning in multimodal systems."
+      ]
+    },
+    "title": "[2606.30393] SADL: What to Ignore? A Benchmark for Subject-Aware Distractor Localization",
+    "text_file": "2606.30393.txt"
+  },
+  {
+    "label": "2204.08945",
+    "url": "https://arxiv.org/abs/2204.08945",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Missingness Bias in Model Debugging"
+      ],
+      "citation_author": [
+        "Jain, Saachi",
+        "Salman, Hadi",
+        "Wong, Eric",
+        "Zhang, Pengchuan",
+        "Vineet, Vibhav",
+        "Vemprala, Sai",
+        "Madry, Aleksander"
+      ],
+      "citation_date": [
+        "2022/04/19"
+      ],
+      "citation_online_date": [
+        "2022/06/13"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2204.08945"
+      ],
+      "citation_arxiv_id": [
+        "2204.08945"
+      ],
+      "citation_abstract": [
+        "Missingness, or the absence of features from an input, is a concept fundamental to many model debugging tools. However, in computer vision, pixels cannot simply be removed from an image. One thus tends to resort to heuristics such as blacking out pixels, which may in turn introduce bias into the debugging process. We study such biases and, in particular, show how transformer-based architectures can enable a more natural implementation of missingness, which side-steps these issues and improves the reliability of model debugging in practice. Our code is available at https://github.com/madrylab/missingness"
+      ]
+    },
+    "title": "[2204.08945] Missingness Bias in Model Debugging",
+    "text_file": "2204.08945.txt"
+  },
+  {
+    "label": "2310.11441",
+    "url": "https://arxiv.org/abs/2310.11441",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V"
+      ],
+      "citation_author": [
+        "Yang, Jianwei",
+        "Zhang, Hao",
+        "Li, Feng",
+        "Zou, Xueyan",
+        "Li, Chunyuan",
+        "Gao, Jianfeng"
+      ],
+      "citation_date": [
+        "2023/10/17"
+      ],
+      "citation_online_date": [
+        "2023/11/06"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2310.11441"
+      ],
+      "citation_arxiv_id": [
+        "2310.11441"
+      ],
+      "citation_abstract": [
+        "We present Set-of-Mark (SoM), a new visual prompting method, to unleash the visual grounding abilities of large multimodal models (LMMs), such as GPT-4V. As illustrated in Fig. 1 (right), we employ off-the-shelf interactive segmentation models, such as SEEM/SAM, to partition an image into regions at different levels of granularity, and overlay these regions with a set of marks e.g., alphanumerics, masks, boxes. Using the marked image as input, GPT-4V can answer the questions that require visual grounding. We perform a comprehensive empirical study to validate the effectiveness of SoM on a wide range of fine-grained vision and multimodal tasks. For example, our experiments show that GPT-4V with SoM in zero-shot setting outperforms the state-of-the-art fully-finetuned referring expression comprehension and segmentation model on RefCOCOg. Code for SoM prompting is made public at: https://github.com/microsoft/SoM."
+      ]
+    },
+    "title": "[2310.11441] Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V",
+    "text_file": "2310.11441.txt"
+  },
+  {
+    "label": "2605.22903",
+    "url": "https://arxiv.org/abs/2605.22903",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Seeing without Looking: Do Vision-Language Benchmarks Really Test Vision?"
+      ],
+      "citation_author": [
+        "Lan, Zixuan",
+        "Sun, Luzhe",
+        "Walter, Matthew R.",
+        "Zhou, Jiawei"
+      ],
+      "citation_date": [
+        "2026/05/21"
+      ],
+      "citation_online_date": [
+        "2026/05/21"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2605.22903"
+      ],
+      "citation_arxiv_id": [
+        "2605.22903"
+      ],
+      "citation_abstract": [
+        "Benchmark accuracy is often implicitly assumed to reflect grounded visual understanding in vision-language models (VLMs), yet it remains unclear to what extent such scores truly reflect reliance on visual evidence. Motivated by a surprising observation that removing a substantial fraction of image tokens only degrades model performance very slightly on a widely used hallucination benchmark, we systematically investigate this mismatch in a set of open-source VLMs. Our analysis spans multiple levels of granularity, spanning global visual degradation, localized occlusion, question reformulation, answer-space expansion, and decision-level analyses beyond standard accuracy. We further complement these behavioral results with a layer-wise analysis of vision-token geometry. Throughout the experiments, we find that although VLMs do incorporate visual input, their predictions are less sensitive to the loss of fine-grained visual evidence that standard accuracy should have suggested. Even when the final prediction remains unchanged, the model's internal support for the correct answer may already be weakened. We further complement a representation-level analysis, which shows increasing similarity among visual tokens in deeper layers, providing a possible explanation for our findings. Together, these results suggest that current benchmarks are not sufficient to reliably evaluate fine-grained visual grounding in VLMs."
+      ]
+    },
+    "title": "[2605.22903] Seeing without Looking: Do Vision-Language Benchmarks Really Test Vision?",
+    "text_file": "2605.22903.txt"
+  },
+  {
+    "label": "2410.04884",
+    "url": "https://arxiv.org/abs/2410.04884",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models"
+      ],
+      "citation_author": [
+        "Kong, Dehong",
+        "Liang, Siyuan",
+        "Zhu, Xiaopeng",
+        "Zhong, Yuansheng",
+        "Ren, Wenqi"
+      ],
+      "citation_doi": [
+        "10.1007/s44267-024-00050-1"
+      ],
+      "citation_date": [
+        "2024/10/07"
+      ],
+      "citation_online_date": [
+        "2024/10/07"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2410.04884"
+      ],
+      "citation_arxiv_id": [
+        "2410.04884"
+      ],
+      "citation_abstract": [
+        "Visual language pre-training (VLP) models have demonstrated significant success across various domains, yet they remain vulnerable to adversarial attacks. Addressing these adversarial vulnerabilities is crucial for enhancing security in multimodal learning. Traditionally, adversarial methods targeting VLP models involve simultaneously perturbing images and text. However, this approach faces notable challenges: first, adversarial perturbations often fail to translate effectively into real-world scenarios; second, direct modifications to the text are conspicuously visible. To overcome these limitations, we propose a novel strategy that exclusively employs image patches for attacks, thus preserving the integrity of the original text. Our method leverages prior knowledge from diffusion models to enhance the authenticity and naturalness of the perturbations. Moreover, to optimize patch placement and improve the efficacy of our attacks, we utilize the cross-attention mechanism, which encapsulates intermodal interactions by generating attention maps to guide strategic patch placements. Comprehensive experiments conducted in a white-box setting for image-to-text scenarios reveal that our proposed method significantly outperforms existing techniques, achieving a 100% attack success rate. Additionally, it demonstrates commendable performance in transfer tasks involving text-to-image configurations."
+      ]
+    },
+    "title": "[2410.04884] Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models",
+    "text_file": "2410.04884.txt"
+  },
+  {
+    "label": "2405.10529",
+    "url": "https://arxiv.org/abs/2405.10529",
+    "checked_date": "2026-09-30",
+    "status": 200,
+    "metadata": {
+      "citation_title": [
+        "Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors"
+      ],
+      "citation_author": [
+        "Sun, Jiachen",
+        "Wang, Changsheng",
+        "Wang, Jiongxiao",
+        "Zhang, Yiwei",
+        "Xiao, Chaowei"
+      ],
+      "citation_date": [
+        "2024/05/17"
+      ],
+      "citation_online_date": [
+        "2024/08/24"
+      ],
+      "citation_pdf_url": [
+        "https://arxiv.org/pdf/2405.10529"
+      ],
+      "citation_arxiv_id": [
+        "2405.10529"
+      ],
+      "citation_abstract": [
+        "Large language models have become increasingly prominent, also signaling a shift towards multimodality as the next frontier in artificial intelligence, where their embeddings are harnessed as prompts to generate textual content. Vision-language models (VLMs) stand at the forefront of this advancement, offering innovative ways to combine visual and textual data for enhanced understanding and interaction. However, this integration also enlarges the attack surface. Patch-based adversarial attack is considered the most realistic threat model in physical vision applications, as demonstrated in many existing literature. In this paper, we propose to address patched visual prompt injection, where adversaries exploit adversarial patches to generate target content in VLMs. Our investigation reveals that patched adversarial prompts exhibit sensitivity to pixel-wise randomization, a trait that remains robust even against adaptive attacks designed to counteract such defenses. Leveraging this insight, we introduce SmoothVLM, a defense mechanism rooted in smoothing techniques, specifically tailored to protect VLMs from the threat of patched visual prompt injectors. Our framework significantly lowers the attack success rate to a range between 0% and 5.0% on two leading VLMs, while achieving around 67.3% to 95.0% context recovery of the benign images, demonstrating a balance between security and usability."
+      ]
+    },
+    "title": "[2405.10529] Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors",
+    "text_file": "2405.10529.txt"
+  }
+]

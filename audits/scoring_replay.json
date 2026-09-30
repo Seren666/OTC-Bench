@@ -1,0 +1,11 @@
+{
+  "cached_class_comparisons": 96000,
+  "all_equal": true,
+  "models": 6,
+  "targets": 800,
+  "prediction_records": 38400,
+  "invalid_inputs": {
+    "missing": "rejected",
+    "duplicate": "rejected"
+  }
+}

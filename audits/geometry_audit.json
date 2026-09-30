@@ -1,0 +1,37 @@
+{
+  "all_near_slots_outside_target_box": true,
+  "near_slot_other_annotation_bbox_overlap_targets": 366,
+  "cohort_counts": [
+    {
+      "cohort": "old_96",
+      "overlap": true,
+      "targets": 41
+    },
+    {
+      "cohort": "old_96",
+      "overlap": false,
+      "targets": 55
+    },
+    {
+      "cohort": "old_204",
+      "overlap": false,
+      "targets": 118
+    },
+    {
+      "cohort": "old_204",
+      "overlap": true,
+      "targets": 86
+    },
+    {
+      "cohort": "new_500",
+      "overlap": false,
+      "targets": 261
+    },
+    {
+      "cohort": "new_500",
+      "overlap": true,
+      "targets": 239
+    }
+  ],
+  "interpretation": "Other annotated-object bounding boxes, not exact object masks. Existing geometric strata; no sample removed from main results."
+}
