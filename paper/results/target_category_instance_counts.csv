@@ -1,0 +1,801 @@
+target_id,cohort,target_category,image_id,same_category_instance_count
+T0001,old_96,oven,325239,1
+T0002,old_96,airplane,14567,1
+T0003,old_96,train,274606,1
+T0004,old_96,banana,344521,4
+T0005,old_96,oven,309022,2
+T0006,old_96,refrigerator,511430,1
+T0007,old_96,fire hydrant,218751,1
+T0008,old_96,chair,324979,1
+T0009,old_96,tv,66001,3
+T0010,old_96,horse,574297,1
+T0011,old_96,cup,373374,1
+T0012,old_96,cup,22072,3
+T0013,old_96,bench,509460,4
+T0014,old_96,boat,334511,3
+T0015,old_96,zebra,139130,4
+T0016,old_96,giraffe,308420,8
+T0017,old_96,cup,562843,1
+T0018,old_96,suitcase,495808,1
+T0019,old_96,chair,451214,2
+T0020,old_96,truck,75723,1
+T0021,old_96,bench,10040,1
+T0022,old_96,train,450695,1
+T0023,old_96,sink,322141,1
+T0024,old_96,tv,137967,2
+T0025,old_96,cup,471394,1
+T0026,old_96,dining table,565941,1
+T0027,old_96,oven,521542,1
+T0028,old_96,zebra,448319,3
+T0029,old_96,train,44061,1
+T0030,old_96,truck,144723,1
+T0031,old_96,dining table,526555,2
+T0032,old_96,truck,33489,1
+T0033,old_96,clock,351967,8
+T0034,old_96,boat,239657,5
+T0035,old_96,handbag,254167,2
+T0036,old_96,surfboard,376449,1
+T0037,old_96,bus,386032,1
+T0038,old_96,horse,118154,2
+T0039,old_96,truck,236457,1
+T0040,old_96,cup,105040,2
+T0041,old_96,chair,558673,4
+T0042,old_96,giraffe,499110,2
+T0043,old_96,train,571746,1
+T0044,old_96,refrigerator,577377,1
+T0045,old_96,oven,471043,1
+T0046,old_96,giraffe,522315,2
+T0047,old_96,teddy bear,504470,2
+T0048,old_96,chair,261318,1
+T0049,old_96,chair,161370,2
+T0050,old_96,teddy bear,468778,5
+T0051,old_96,boat,110762,1
+T0052,old_96,tennis racket,579337,1
+T0053,old_96,refrigerator,476331,1
+T0054,old_96,chair,383419,2
+T0055,old_96,vase,521370,1
+T0056,old_96,train,559790,2
+T0057,old_96,sink,181859,1
+T0058,old_96,horse,364113,2
+T0059,old_96,banana,234614,1
+T0060,old_96,dining table,248920,1
+T0061,old_96,tv,229688,2
+T0062,old_96,clock,323827,3
+T0063,old_96,sink,487525,1
+T0064,old_96,bench,134343,1
+T0065,old_96,dining table,557896,1
+T0066,old_96,sink,383601,1
+T0067,old_96,cell phone,336404,1
+T0068,old_96,oven,444390,1
+T0069,old_96,dining table,165009,1
+T0070,old_96,bench,432553,1
+T0071,old_96,horse,88265,1
+T0072,old_96,dining table,360170,8
+T0073,old_96,vase,565683,1
+T0074,old_96,surfboard,284379,1
+T0075,old_96,oven,127182,1
+T0076,old_96,sink,340559,2
+T0077,old_96,horse,30668,1
+T0078,old_96,sink,463611,1
+T0079,old_96,giraffe,122007,2
+T0080,old_96,bed,675,1
+T0081,old_96,fire hydrant,54011,1
+T0082,old_96,teddy bear,270148,3
+T0083,old_96,suitcase,155142,1
+T0084,old_96,motorcycle,370657,3
+T0085,old_96,horse,352290,1
+T0086,old_96,handbag,107741,1
+T0087,old_96,airplane,235663,1
+T0088,old_96,airplane,64332,3
+T0089,old_96,bed,371414,1
+T0090,old_96,bus,211246,2
+T0091,old_96,motorcycle,5213,1
+T0092,old_96,banana,78959,13
+T0093,old_96,suitcase,220808,3
+T0094,old_96,tv,485149,1
+T0095,old_96,bottle,351183,2
+T0096,old_96,surfboard,336656,1
+T0097,old_204,dining table,260974,1
+T0098,old_204,airplane,348881,2
+T0099,old_204,bottle,520871,1
+T0100,old_204,bus,148319,2
+T0101,old_204,chair,325385,2
+T0102,old_204,sink,496604,1
+T0103,old_204,sink,523426,1
+T0104,old_204,oven,55066,2
+T0105,old_204,truck,424585,2
+T0106,old_204,giraffe,150726,2
+T0107,old_204,airplane,239171,2
+T0108,old_204,cup,213843,2
+T0109,old_204,tv,314935,1
+T0110,old_204,refrigerator,397322,1
+T0111,old_204,dining table,345245,1
+T0112,old_204,surfboard,93685,1
+T0113,old_204,sink,358883,1
+T0114,old_204,bench,28826,1
+T0115,old_204,teddy bear,57222,3
+T0116,old_204,tv,93948,1
+T0117,old_204,baseball glove,26907,1
+T0118,old_204,surfboard,27972,1
+T0119,old_204,train,107800,1
+T0120,old_204,dining table,344881,1
+T0121,old_204,oven,294595,2
+T0122,old_204,chair,145101,1
+T0123,old_204,oven,320703,1
+T0124,old_204,clock,78312,1
+T0125,old_204,tennis racket,498802,1
+T0126,old_204,airplane,295076,1
+T0127,old_204,boat,104629,1
+T0128,old_204,zebra,163290,1
+T0129,old_204,refrigerator,121828,1
+T0130,old_204,refrigerator,336001,1
+T0131,old_204,vase,506595,2
+T0132,old_204,vase,68434,1
+T0133,old_204,surfboard,234677,1
+T0134,old_204,cell phone,278582,1
+T0135,old_204,suitcase,405648,1
+T0136,old_204,dining table,184994,1
+T0137,old_204,train,550372,3
+T0138,old_204,chair,506942,3
+T0139,old_204,train,341815,3
+T0140,old_204,dining table,283118,2
+T0141,old_204,tv,387098,2
+T0142,old_204,zebra,300157,2
+T0143,old_204,bottle,471785,2
+T0144,old_204,suitcase,27530,3
+T0145,old_204,cup,198464,1
+T0146,old_204,zebra,157715,3
+T0147,old_204,giraffe,15954,2
+T0148,old_204,tv,21060,1
+T0149,old_204,dining table,259465,1
+T0150,old_204,keyboard,140231,1
+T0151,old_204,truck,365745,2
+T0152,old_204,zebra,301467,1
+T0153,old_204,dining table,147545,2
+T0154,old_204,banana,163951,1
+T0155,old_204,sink,514982,2
+T0156,old_204,tennis racket,407909,1
+T0157,old_204,clock,543681,1
+T0158,old_204,tennis racket,462486,1
+T0159,old_204,vase,509531,2
+T0160,old_204,handbag,19712,1
+T0161,old_204,bus,403657,3
+T0162,old_204,cup,274109,2
+T0163,old_204,cup,331475,1
+T0164,old_204,banana,80337,2
+T0165,old_204,airplane,495054,1
+T0166,old_204,horse,27871,4
+T0167,old_204,motorcycle,36761,1
+T0168,old_204,truck,403793,2
+T0169,old_204,banana,84889,4
+T0170,old_204,horse,18022,2
+T0171,old_204,zebra,279165,3
+T0172,old_204,toaster,360101,1
+T0173,old_204,surfboard,247587,1
+T0174,old_204,motorcycle,249301,1
+T0175,old_204,motorcycle,10104,1
+T0176,old_204,sink,298732,2
+T0177,old_204,sink,549384,1
+T0178,old_204,clock,454329,4
+T0179,old_204,clock,34826,1
+T0180,old_204,motorcycle,137586,1
+T0181,old_204,bed,483531,1
+T0182,old_204,boat,212800,1
+T0183,old_204,tennis racket,301438,1
+T0184,old_204,truck,304917,1
+T0185,old_204,teddy bear,557981,1
+T0186,old_204,giraffe,122987,2
+T0187,old_204,cup,469936,2
+T0188,old_204,suitcase,181852,1
+T0189,old_204,refrigerator,44294,1
+T0190,old_204,banana,291528,5
+T0191,old_204,bus,199492,2
+T0192,old_204,truck,231402,1
+T0193,old_204,sink,197796,1
+T0194,old_204,vase,460107,2
+T0195,old_204,vase,22112,2
+T0196,old_204,bench,227736,1
+T0197,old_204,horse,457271,2
+T0198,old_204,vase,145209,2
+T0199,old_204,teddy bear,380299,1
+T0200,old_204,giraffe,219965,3
+T0201,old_204,giraffe,289486,5
+T0202,old_204,bench,517069,1
+T0203,old_204,bench,291932,1
+T0204,old_204,motorcycle,429633,1
+T0205,old_204,oven,159791,2
+T0206,old_204,sink,143370,1
+T0207,old_204,tennis racket,19313,1
+T0208,old_204,clock,423990,1
+T0209,old_204,bus,101053,1
+T0210,old_204,tv,244571,1
+T0211,old_204,vase,156915,1
+T0212,old_204,train,548164,1
+T0213,old_204,clock,11721,1
+T0214,old_204,bed,193194,1
+T0215,old_204,airplane,564911,4
+T0216,old_204,train,26226,1
+T0217,old_204,train,125547,2
+T0218,old_204,tv,406534,1
+T0219,old_204,tv,43092,1
+T0220,old_204,banana,372038,1
+T0221,old_204,bottle,81661,2
+T0222,old_204,sink,302159,2
+T0223,old_204,surfboard,3837,4
+T0224,old_204,cup,344903,1
+T0225,old_204,train,518586,1
+T0226,old_204,bus,203370,1
+T0227,old_204,refrigerator,156278,1
+T0228,old_204,airplane,158801,1
+T0229,old_204,train,67948,1
+T0230,old_204,horse,298382,2
+T0231,old_204,giraffe,85288,2
+T0232,old_204,zebra,44524,3
+T0233,old_204,banana,453708,5
+T0234,old_204,clock,327367,1
+T0235,old_204,train,7211,2
+T0236,old_204,tv,555322,1
+T0237,old_204,bed,231549,1
+T0238,old_204,bed,336300,2
+T0239,old_204,boat,82263,1
+T0240,old_204,bed,205089,1
+T0241,old_204,suitcase,573926,2
+T0242,old_204,banana,3703,3
+T0243,old_204,bottle,430469,2
+T0244,old_204,cup,216449,3
+T0245,old_204,zebra,341950,2
+T0246,old_204,horse,228071,1
+T0247,old_204,bed,449661,2
+T0248,old_204,suitcase,559470,8
+T0249,old_204,giraffe,354202,2
+T0250,old_204,horse,273728,1
+T0251,old_204,truck,223574,3
+T0252,old_204,bench,386370,2
+T0253,old_204,keyboard,400166,1
+T0254,old_204,cell phone,52413,1
+T0255,old_204,truck,497441,1
+T0256,old_204,teddy bear,356733,4
+T0257,old_204,boat,5394,1
+T0258,old_204,bench,303026,1
+T0259,old_204,boat,400431,13
+T0260,old_204,bus,491965,1
+T0261,old_204,bus,574425,2
+T0262,old_204,keyboard,319706,1
+T0263,old_204,bed,120380,1
+T0264,old_204,banana,424174,6
+T0265,old_204,vase,20268,1
+T0266,old_204,truck,66959,4
+T0267,old_204,tennis racket,170474,1
+T0268,old_204,fire hydrant,35814,1
+T0269,old_204,surfboard,448243,1
+T0270,old_204,zebra,269020,2
+T0271,old_204,motorcycle,484397,1
+T0272,old_204,suitcase,136117,2
+T0273,old_204,bus,90208,3
+T0274,old_204,motorcycle,482707,2
+T0275,old_204,giraffe,509735,2
+T0276,old_204,giraffe,30967,2
+T0277,old_204,fire hydrant,131969,1
+T0278,old_204,suitcase,510782,1
+T0279,old_204,zebra,400836,5
+T0280,old_204,vase,218365,1
+T0281,old_204,suitcase,521689,1
+T0282,old_204,surfboard,175615,1
+T0283,old_204,surfboard,210915,1
+T0284,old_204,horse,250870,1
+T0285,old_204,fire hydrant,547336,1
+T0286,old_204,cup,564612,3
+T0287,old_204,suitcase,27371,1
+T0288,old_204,airplane,392144,4
+T0289,old_204,clock,64822,1
+T0290,old_204,airplane,500718,3
+T0291,old_204,motorcycle,351711,7
+T0292,old_204,surfboard,156720,1
+T0293,old_204,tennis racket,544695,1
+T0294,old_204,motorcycle,332221,6
+T0295,old_204,truck,510719,1
+T0296,old_204,oven,96183,1
+T0297,old_204,bottle,338581,11
+T0298,old_204,refrigerator,536947,1
+T0299,old_204,oven,283190,1
+T0300,old_204,keyboard,580953,2
+T0301,new_500,cup,216194,2
+T0302,new_500,chair,82696,8
+T0303,new_500,chair,158288,1
+T0304,new_500,cup,74733,11
+T0305,new_500,cup,439630,1
+T0306,new_500,train,394449,1
+T0307,new_500,cup,166277,3
+T0308,new_500,train,288799,1
+T0309,new_500,dining table,564058,1
+T0310,new_500,train,24693,1
+T0311,new_500,chair,88436,7
+T0312,new_500,sink,246263,1
+T0313,new_500,train,60859,1
+T0314,new_500,truck,335670,2
+T0315,new_500,dining table,303652,1
+T0316,new_500,sink,146149,2
+T0317,new_500,dining table,222625,1
+T0318,new_500,truck,40497,1
+T0319,new_500,horse,385540,1
+T0320,new_500,cup,127910,1
+T0321,new_500,chair,105465,14
+T0322,new_500,sink,538359,4
+T0323,new_500,sink,239041,1
+T0324,new_500,surfboard,445505,1
+T0325,new_500,motorcycle,77360,2
+T0326,new_500,bottle,182213,1
+T0327,new_500,dining table,495533,2
+T0328,new_500,chair,29984,2
+T0329,new_500,motorcycle,220106,9
+T0330,new_500,dining table,160875,11
+T0331,new_500,chair,523212,4
+T0332,new_500,cell phone,311964,3
+T0333,new_500,sink,350833,1
+T0334,new_500,dining table,93746,1
+T0335,new_500,dining table,410810,1
+T0336,new_500,bed,384651,1
+T0337,new_500,bench,356379,3
+T0338,new_500,truck,527553,1
+T0339,new_500,airplane,579602,1
+T0340,new_500,cup,107770,1
+T0341,new_500,refrigerator,565776,1
+T0342,new_500,sink,336937,14
+T0343,new_500,horse,352755,2
+T0344,new_500,surfboard,470513,1
+T0345,new_500,fire hydrant,479195,1
+T0346,new_500,giraffe,420472,2
+T0347,new_500,train,35436,1
+T0348,new_500,bed,510681,1
+T0349,new_500,clock,539355,1
+T0350,new_500,tv,396541,1
+T0351,new_500,surfboard,313928,1
+T0352,new_500,horse,565248,2
+T0353,new_500,bottle,398818,2
+T0354,new_500,suitcase,370116,5
+T0355,new_500,zebra,198921,3
+T0356,new_500,tv,229848,1
+T0357,new_500,truck,440991,1
+T0358,new_500,dining table,372654,3
+T0359,new_500,dining table,124072,2
+T0360,new_500,fire hydrant,469721,1
+T0361,new_500,cup,499957,1
+T0362,new_500,tennis racket,552247,7
+T0363,new_500,sink,193405,1
+T0364,new_500,boat,233362,1
+T0365,new_500,refrigerator,73280,1
+T0366,new_500,tennis racket,47624,3
+T0367,new_500,motorcycle,14321,7
+T0368,new_500,bench,460461,11
+T0369,new_500,handbag,264161,1
+T0370,new_500,dining table,353982,1
+T0371,new_500,sink,228604,3
+T0372,new_500,sink,167443,2
+T0373,new_500,bus,193424,1
+T0374,new_500,bench,510734,2
+T0375,new_500,bench,2154,1
+T0376,new_500,bench,469424,2
+T0377,new_500,chair,142246,6
+T0378,new_500,clock,263382,1
+T0379,new_500,bench,430525,2
+T0380,new_500,suitcase,282658,1
+T0381,new_500,giraffe,227845,2
+T0382,new_500,dining table,243600,1
+T0383,new_500,surfboard,525732,1
+T0384,new_500,bus,69944,4
+T0385,new_500,fire hydrant,516540,2
+T0386,new_500,zebra,371243,2
+T0387,new_500,truck,237207,2
+T0388,new_500,chair,381615,1
+T0389,new_500,chair,40083,1
+T0390,new_500,airplane,414917,1
+T0391,new_500,bed,450364,1
+T0392,new_500,dining table,452003,2
+T0393,new_500,bus,372706,2
+T0394,new_500,oven,87567,1
+T0395,new_500,microwave,388042,1
+T0396,new_500,chair,578545,1
+T0397,new_500,banana,338903,9
+T0398,new_500,tv,358658,1
+T0399,new_500,dining table,347144,1
+T0400,new_500,clock,114119,1
+T0401,new_500,bench,68650,1
+T0402,new_500,handbag,480472,4
+T0403,new_500,zebra,545129,3
+T0404,new_500,refrigerator,551881,1
+T0405,new_500,vase,1393,1
+T0406,new_500,teddy bear,196758,1
+T0407,new_500,oven,91416,1
+T0408,new_500,dining table,488785,1
+T0409,new_500,refrigerator,333998,1
+T0410,new_500,tennis racket,482829,1
+T0411,new_500,dining table,67765,1
+T0412,new_500,surfboard,237420,4
+T0413,new_500,refrigerator,453755,1
+T0414,new_500,giraffe,451151,2
+T0415,new_500,bench,75857,14
+T0416,new_500,cell phone,296383,1
+T0417,new_500,cell phone,248559,1
+T0418,new_500,zebra,433460,7
+T0419,new_500,bus,373353,1
+T0420,new_500,bottle,365503,1
+T0421,new_500,vase,478071,1
+T0422,new_500,chair,290771,6
+T0423,new_500,surfboard,355297,1
+T0424,new_500,suitcase,64915,6
+T0425,new_500,dining table,318618,1
+T0426,new_500,chair,428231,1
+T0427,new_500,bench,462105,2
+T0428,new_500,giraffe,274678,1
+T0429,new_500,bus,114884,6
+T0430,new_500,tv,267408,1
+T0431,new_500,chair,116361,5
+T0432,new_500,giraffe,317592,2
+T0433,new_500,dining table,226821,2
+T0434,new_500,train,492102,1
+T0435,new_500,chair,493867,1
+T0436,new_500,dining table,313341,1
+T0437,new_500,suitcase,449485,1
+T0438,new_500,cup,84410,1
+T0439,new_500,dining table,251242,1
+T0440,new_500,banana,165639,1
+T0441,new_500,chair,207925,7
+T0442,new_500,truck,360274,1
+T0443,new_500,train,65981,1
+T0444,new_500,sink,456328,1
+T0445,new_500,motorcycle,332653,2
+T0446,new_500,vase,255272,10
+T0447,new_500,cup,25394,1
+T0448,new_500,airplane,165937,2
+T0449,new_500,boat,530317,2
+T0450,new_500,cup,318114,1
+T0451,new_500,chair,575964,6
+T0452,new_500,baseball glove,273684,1
+T0453,new_500,vase,106848,1
+T0454,new_500,motorcycle,228011,6
+T0455,new_500,bench,318543,2
+T0456,new_500,giraffe,367860,1
+T0457,new_500,refrigerator,382696,1
+T0458,new_500,chair,528062,4
+T0459,new_500,vase,415015,1
+T0460,new_500,surfboard,411587,1
+T0461,new_500,keyboard,325211,1
+T0462,new_500,teddy bear,128373,12
+T0463,new_500,chair,453722,1
+T0464,new_500,bus,492077,1
+T0465,new_500,chair,433984,1
+T0466,new_500,motorcycle,199252,1
+T0467,new_500,boat,383119,5
+T0468,new_500,cup,406848,1
+T0469,new_500,chair,295134,2
+T0470,new_500,boat,505080,1
+T0471,new_500,refrigerator,299776,1
+T0472,new_500,horse,342322,1
+T0473,new_500,truck,504902,3
+T0474,new_500,keyboard,570115,1
+T0475,new_500,bed,243569,1
+T0476,new_500,airplane,249482,1
+T0477,new_500,surfboard,53754,1
+T0478,new_500,tv,195918,2
+T0479,new_500,train,381504,1
+T0480,new_500,cup,141108,1
+T0481,new_500,surfboard,248007,1
+T0482,new_500,motorcycle,394240,8
+T0483,new_500,tv,241187,2
+T0484,new_500,truck,201670,1
+T0485,new_500,zebra,48376,3
+T0486,new_500,tv,492905,1
+T0487,new_500,giraffe,281221,1
+T0488,new_500,zebra,456690,6
+T0489,new_500,banana,269314,1
+T0490,new_500,surfboard,158957,1
+T0491,new_500,motorcycle,540869,1
+T0492,new_500,tv,322577,1
+T0493,new_500,keyboard,190722,2
+T0494,new_500,zebra,95375,8
+T0495,new_500,dining table,541773,1
+T0496,new_500,dining table,295767,1
+T0497,new_500,motorcycle,376628,5
+T0498,new_500,zebra,350488,1
+T0499,new_500,bus,548159,9
+T0500,new_500,refrigerator,301415,1
+T0501,new_500,dining table,247317,3
+T0502,new_500,teddy bear,391154,7
+T0503,new_500,airplane,420958,1
+T0504,new_500,chair,506614,2
+T0505,new_500,tv,44263,1
+T0506,new_500,oven,424349,2
+T0507,new_500,surfboard,159832,1
+T0508,new_500,train,411215,1
+T0509,new_500,tv,65773,1
+T0510,new_500,motorcycle,555648,1
+T0511,new_500,keyboard,371864,1
+T0512,new_500,truck,384970,1
+T0513,new_500,tennis racket,266727,1
+T0514,new_500,tennis racket,459265,1
+T0515,new_500,cup,51801,1
+T0516,new_500,bed,141807,1
+T0517,new_500,train,114235,1
+T0518,new_500,teddy bear,275898,2
+T0519,new_500,chair,303607,1
+T0520,new_500,dining table,438774,1
+T0521,new_500,dining table,271116,1
+T0522,new_500,train,70460,1
+T0523,new_500,motorcycle,184945,3
+T0524,new_500,train,249643,2
+T0525,new_500,tv,477112,1
+T0526,new_500,giraffe,320425,10
+T0527,new_500,handbag,477016,1
+T0528,new_500,zebra,256859,1
+T0529,new_500,truck,341801,2
+T0530,new_500,tv,154419,1
+T0531,new_500,dining table,197444,1
+T0532,new_500,dining table,376295,1
+T0533,new_500,refrigerator,470256,1
+T0534,new_500,train,325919,1
+T0535,new_500,train,520503,2
+T0536,new_500,horse,208450,5
+T0537,new_500,tv,578878,1
+T0538,new_500,zebra,447194,1
+T0539,new_500,airplane,152649,1
+T0540,new_500,horse,18654,1
+T0541,new_500,chair,541917,1
+T0542,new_500,bed,48668,1
+T0543,new_500,motorcycle,61862,2
+T0544,new_500,airplane,293218,1
+T0545,new_500,tennis racket,298578,3
+T0546,new_500,surfboard,99348,10
+T0547,new_500,giraffe,578238,2
+T0548,new_500,train,498806,1
+T0549,new_500,tv,356740,3
+T0550,new_500,clock,475890,1
+T0551,new_500,tv,387482,1
+T0552,new_500,chair,181753,2
+T0553,new_500,horse,356261,2
+T0554,new_500,cup,19763,2
+T0555,new_500,train,161187,1
+T0556,new_500,fire hydrant,97868,1
+T0557,new_500,airplane,392670,1
+T0558,new_500,clock,14557,1
+T0559,new_500,motorcycle,278435,1
+T0560,new_500,suitcase,148542,2
+T0561,new_500,cell phone,60240,1
+T0562,new_500,bottle,298067,1
+T0563,new_500,microwave,577584,1
+T0564,new_500,truck,448868,4
+T0565,new_500,chair,1138,2
+T0566,new_500,zebra,188718,2
+T0567,new_500,surfboard,461130,7
+T0568,new_500,tv,474786,1
+T0569,new_500,cup,215062,1
+T0570,new_500,horse,412304,6
+T0571,new_500,horse,511669,1
+T0572,new_500,giraffe,431557,3
+T0573,new_500,chair,523854,4
+T0574,new_500,chair,386332,1
+T0575,new_500,bench,227413,1
+T0576,new_500,bed,66675,1
+T0577,new_500,tv,406211,1
+T0578,new_500,handbag,123360,4
+T0579,new_500,truck,489358,2
+T0580,new_500,vase,328962,1
+T0581,new_500,chair,514990,5
+T0582,new_500,vase,341778,12
+T0583,new_500,cup,199771,2
+T0584,new_500,zebra,507668,3
+T0585,new_500,surfboard,558294,4
+T0586,new_500,bench,44627,1
+T0587,new_500,tv,153455,1
+T0588,new_500,bench,14869,1
+T0589,new_500,surfboard,216910,1
+T0590,new_500,bed,149197,1
+T0591,new_500,vase,253421,1
+T0592,new_500,surfboard,243699,1
+T0593,new_500,chair,479126,4
+T0594,new_500,clock,115060,1
+T0595,new_500,banana,175440,8
+T0596,new_500,oven,451679,1
+T0597,new_500,tennis racket,499577,1
+T0598,new_500,sink,175052,1
+T0599,new_500,tv,180373,1
+T0600,new_500,tv,196074,1
+T0601,new_500,zebra,212842,14
+T0602,new_500,airplane,84474,3
+T0603,new_500,suitcase,140696,2
+T0604,new_500,surfboard,475159,1
+T0605,new_500,vase,323507,1
+T0606,new_500,cup,479350,1
+T0607,new_500,airplane,180953,1
+T0608,new_500,giraffe,176629,1
+T0609,new_500,refrigerator,552320,1
+T0610,new_500,tv,546444,1
+T0611,new_500,bus,219558,1
+T0612,new_500,cell phone,55395,1
+T0613,new_500,motorcycle,80260,1
+T0614,new_500,fire hydrant,345535,1
+T0615,new_500,zebra,468351,6
+T0616,new_500,bed,365387,1
+T0617,new_500,banana,322959,2
+T0618,new_500,bench,57917,1
+T0619,new_500,refrigerator,512223,1
+T0620,new_500,truck,45105,2
+T0621,new_500,horse,263359,10
+T0622,new_500,bottle,496954,1
+T0623,new_500,suitcase,488539,2
+T0624,new_500,horse,324291,1
+T0625,new_500,bus,75600,1
+T0626,new_500,tv,572495,4
+T0627,new_500,vase,176232,1
+T0628,new_500,motorcycle,89329,1
+T0629,new_500,suitcase,255358,14
+T0630,new_500,motorcycle,262161,3
+T0631,new_500,horse,515403,1
+T0632,new_500,bed,331883,1
+T0633,new_500,boat,363845,4
+T0634,new_500,cup,232993,1
+T0635,new_500,truck,539436,3
+T0636,new_500,airplane,140565,5
+T0637,new_500,boat,274126,5
+T0638,new_500,surfboard,51157,1
+T0639,new_500,bench,493218,1
+T0640,new_500,tv,217562,1
+T0641,new_500,truck,93803,7
+T0642,new_500,boat,259189,1
+T0643,new_500,keyboard,191444,2
+T0644,new_500,teddy bear,205542,1
+T0645,new_500,airplane,131386,4
+T0646,new_500,horse,435334,4
+T0647,new_500,sink,221307,2
+T0648,new_500,banana,160104,2
+T0649,new_500,zebra,406001,2
+T0650,new_500,vase,319687,2
+T0651,new_500,cup,467578,1
+T0652,new_500,vase,369979,3
+T0653,new_500,sink,135117,2
+T0654,new_500,oven,407960,1
+T0655,new_500,boat,27662,1
+T0656,new_500,boat,343951,1
+T0657,new_500,bed,560908,1
+T0658,new_500,bottle,260713,1
+T0659,new_500,microwave,385005,2
+T0660,new_500,tv,404984,1
+T0661,new_500,boat,209102,1
+T0662,new_500,bench,399091,1
+T0663,new_500,cup,568398,2
+T0664,new_500,giraffe,185590,1
+T0665,new_500,boat,99961,1
+T0666,new_500,bottle,392020,2
+T0667,new_500,bottle,325328,1
+T0668,new_500,suitcase,136440,1
+T0669,new_500,bench,334975,1
+T0670,new_500,bed,27578,1
+T0671,new_500,truck,278601,1
+T0672,new_500,bottle,60467,2
+T0673,new_500,zebra,448599,2
+T0674,new_500,motorcycle,580108,4
+T0675,new_500,airplane,309434,2
+T0676,new_500,cell phone,537027,1
+T0677,new_500,tennis racket,460289,1
+T0678,new_500,bottle,141821,1
+T0679,new_500,bus,118710,1
+T0680,new_500,sink,215596,1
+T0681,new_500,airplane,497096,1
+T0682,new_500,bus,177173,1
+T0683,new_500,horse,74629,1
+T0684,new_500,bed,197616,1
+T0685,new_500,horse,121242,2
+T0686,new_500,toaster,246478,1
+T0687,new_500,bus,281837,6
+T0688,new_500,airplane,414813,4
+T0689,new_500,tennis racket,372230,1
+T0690,new_500,truck,349344,1
+T0691,new_500,vase,468744,1
+T0692,new_500,tv,175954,1
+T0693,new_500,handbag,18319,1
+T0694,new_500,motorcycle,359277,14
+T0695,new_500,bottle,280819,1
+T0696,new_500,handbag,121106,2
+T0697,new_500,surfboard,20179,1
+T0698,new_500,cup,321798,3
+T0699,new_500,teddy bear,17769,2
+T0700,new_500,clock,12959,1
+T0701,new_500,horse,352113,5
+T0702,new_500,banana,169858,1
+T0703,new_500,cup,479067,2
+T0704,new_500,vase,453756,7
+T0705,new_500,banana,209441,9
+T0706,new_500,train,275237,1
+T0707,new_500,handbag,263696,1
+T0708,new_500,cell phone,369887,1
+T0709,new_500,oven,262514,1
+T0710,new_500,truck,51702,2
+T0711,new_500,bench,401384,3
+T0712,new_500,handbag,579648,1
+T0713,new_500,sink,576743,1
+T0714,new_500,airplane,239992,2
+T0715,new_500,bed,369913,1
+T0716,new_500,bus,341017,1
+T0717,new_500,bench,272048,1
+T0718,new_500,bottle,435384,12
+T0719,new_500,zebra,82252,3
+T0720,new_500,vase,146997,1
+T0721,new_500,cup,323291,1
+T0722,new_500,clock,2529,1
+T0723,new_500,horse,317433,2
+T0724,new_500,surfboard,482172,1
+T0725,new_500,airplane,500049,1
+T0726,new_500,truck,470364,1
+T0727,new_500,truck,233491,2
+T0728,new_500,cup,299023,1
+T0729,new_500,bench,197941,1
+T0730,new_500,train,408863,1
+T0731,new_500,giraffe,26799,2
+T0732,new_500,tv,322119,1
+T0733,new_500,horse,460129,3
+T0734,new_500,bus,43170,1
+T0735,new_500,clock,266857,1
+T0736,new_500,fire hydrant,28993,3
+T0737,new_500,bottle,310572,1
+T0738,new_500,zebra,176226,3
+T0739,new_500,zebra,26665,11
+T0740,new_500,banana,548506,3
+T0741,new_500,bottle,112269,2
+T0742,new_500,bed,372147,1
+T0743,new_500,tv,85160,3
+T0744,new_500,cup,169885,3
+T0745,new_500,tennis racket,94299,1
+T0746,new_500,handbag,462213,3
+T0747,new_500,giraffe,59386,8
+T0748,new_500,truck,462315,3
+T0749,new_500,handbag,14494,2
+T0750,new_500,suitcase,485343,2
+T0751,new_500,bus,291538,1
+T0752,new_500,airplane,342490,1
+T0753,new_500,banana,321973,1
+T0754,new_500,suitcase,503585,2
+T0755,new_500,surfboard,31717,1
+T0756,new_500,truck,357578,2
+T0757,new_500,giraffe,132612,3
+T0758,new_500,tv,82229,2
+T0759,new_500,train,494439,2
+T0760,new_500,vase,359801,2
+T0761,new_500,banana,198367,1
+T0762,new_500,bus,339344,1
+T0763,new_500,suitcase,199510,10
+T0764,new_500,giraffe,460126,2
+T0765,new_500,giraffe,170250,5
+T0766,new_500,cell phone,568367,3
+T0767,new_500,motorcycle,199481,1
+T0768,new_500,vase,487141,1
+T0769,new_500,clock,283516,1
+T0770,new_500,zebra,53916,2
+T0771,new_500,airplane,261645,1
+T0772,new_500,tv,45463,1
+T0773,new_500,zebra,155743,1
+T0774,new_500,cup,205101,2
+T0775,new_500,boat,573759,1
+T0776,new_500,bench,340922,1
+T0777,new_500,oven,43838,1
+T0778,new_500,truck,253924,1
+T0779,new_500,cup,44261,2
+T0780,new_500,keyboard,499365,1
+T0781,new_500,banana,364399,1
+T0782,new_500,cup,9156,1
+T0783,new_500,sink,331096,1
+T0784,new_500,oven,353510,1
+T0785,new_500,oven,553326,2
+T0786,new_500,zebra,296858,2
+T0787,new_500,motorcycle,479378,1
+T0788,new_500,clock,438850,1
+T0789,new_500,cup,368752,1
+T0790,new_500,surfboard,373785,1
+T0791,new_500,horse,421978,2
+T0792,new_500,cup,209048,3
+T0793,new_500,suitcase,206112,3
+T0794,new_500,motorcycle,104647,8
+T0795,new_500,motorcycle,350874,1
+T0796,new_500,bed,82488,2
+T0797,new_500,handbag,238598,1
+T0798,new_500,bus,550691,2
+T0799,new_500,horse,331049,1
+T0800,new_500,boat,455040,4

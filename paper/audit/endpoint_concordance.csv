@@ -1,0 +1,67 @@
+﻿subset,model,scorer,endpoint,n,agreement_n,agreement_pct,human_n,scorer_n,scorer_only_n,human_only_n,human_definition,unresolved_n,pointwise95_low_pct,pointwise95_high_pct
+probability360,pooled,W,target,360,356,98.88888888888889,140,140,2,2,single-answer category assignment; hedged refinements allowed,0,97.5,100.0
+probability360,pooled,W,donor,240,236,98.33333333333333,36,38,3,1,single-answer category assignment; hedged refinements allowed,0,96.25000000000001,100.0
+probability360,pooled,W,unknown,360,360,100.0,99,99,0,0,explicit abstention,0,100.0,100.0
+probability360,pooled,A_rule,target,360,359,99.72222222222223,140,139,0,1,single-answer category assignment; hedged refinements allowed,0,99.16666666666666,100.0
+probability360,pooled,A_rule,donor,240,240,100.0,36,36,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,pooled,A_rule,unknown,360,360,100.0,99,99,0,0,explicit abstention,0,100.0,100.0
+probability360,idefics3,W,target,60,60,100.0,24,24,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,idefics3,W,donor,40,40,100.0,11,11,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,idefics3,W,unknown,60,60,100.0,8,8,0,0,explicit abstention,0,100.0,100.0
+probability360,idefics3,A_rule,target,60,60,100.0,24,24,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,idefics3,A_rule,donor,40,40,100.0,11,11,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,idefics3,A_rule,unknown,60,60,100.0,8,8,0,0,explicit abstention,0,100.0,100.0
+probability360,internvl35,W,target,60,58,96.66666666666667,31,31,1,1,single-answer category assignment; hedged refinements allowed,0,89.99999999999999,100.0
+probability360,internvl35,W,donor,40,39,97.5,9,8,0,1,single-answer category assignment; hedged refinements allowed,0,92.5,100.0
+probability360,internvl35,W,unknown,60,60,100.0,7,7,0,0,explicit abstention,0,100.0,100.0
+probability360,internvl35,A_rule,target,60,59,98.33333333333333,31,30,0,1,single-answer category assignment; hedged refinements allowed,0,95.0,100.0
+probability360,internvl35,A_rule,donor,40,40,100.0,9,9,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,internvl35,A_rule,unknown,60,60,100.0,7,7,0,0,explicit abstention,0,100.0,100.0
+probability360,llava15,W,target,60,60,100.0,17,17,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,llava15,W,donor,40,39,97.5,9,10,1,0,single-answer category assignment; hedged refinements allowed,0,92.5,100.0
+probability360,llava15,W,unknown,60,60,100.0,0,0,0,0,explicit abstention,0,100.0,100.0
+probability360,llava15,A_rule,target,60,60,100.0,17,17,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,llava15,A_rule,donor,40,40,100.0,9,9,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,llava15,A_rule,unknown,60,60,100.0,0,0,0,0,explicit abstention,0,100.0,100.0
+probability360,pixtral12b,W,target,60,58,96.66666666666667,5,5,1,1,single-answer category assignment; hedged refinements allowed,0,91.66666666666667,100.0
+probability360,pixtral12b,W,donor,40,38,95.0,3,5,2,0,single-answer category assignment; hedged refinements allowed,0,87.5,100.0
+probability360,pixtral12b,W,unknown,60,60,100.0,40,40,0,0,explicit abstention,0,100.0,100.0
+probability360,pixtral12b,A_rule,target,60,60,100.0,5,5,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,pixtral12b,A_rule,donor,40,40,100.0,3,3,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,pixtral12b,A_rule,unknown,60,60,100.0,40,40,0,0,explicit abstention,0,100.0,100.0
+probability360,qwen,W,target,60,60,100.0,46,46,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen,W,donor,40,40,100.0,0,0,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen,W,unknown,60,60,100.0,8,8,0,0,explicit abstention,0,100.0,100.0
+probability360,qwen,A_rule,target,60,60,100.0,46,46,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen,A_rule,donor,40,40,100.0,0,0,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen,A_rule,unknown,60,60,100.0,8,8,0,0,explicit abstention,0,100.0,100.0
+probability360,qwen9b,W,target,60,60,100.0,17,17,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen9b,W,donor,40,40,100.0,4,4,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen9b,W,unknown,60,60,100.0,36,36,0,0,explicit abstention,0,100.0,100.0
+probability360,qwen9b,A_rule,target,60,60,100.0,17,17,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen9b,A_rule,donor,40,40,100.0,4,4,0,0,single-answer category assignment; hedged refinements allowed,0,100.0,100.0
+probability360,qwen9b,A_rule,unknown,60,60,100.0,36,36,0,0,explicit abstention,0,100.0,100.0
+original_challenge56,pooled,W,target,56,47,83.92857142857143,13,18,7,2,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pooled,W,donor,56,53,94.64285714285714,4,7,3,0,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pooled,W,unknown,56,56,100.0,4,4,0,0,explicit abstention,0,,
+original_challenge56,pooled,A_rule,target,56,45,80.35714285714286,13,6,2,9,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pooled,A_rule,donor,56,55,98.21428571428571,4,3,0,1,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pooled,A_rule,unknown,56,56,100.0,4,4,0,0,explicit abstention,0,,
+original_challenge56,pixtral12b,W,target,56,47,83.92857142857143,13,18,7,2,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pixtral12b,W,donor,56,53,94.64285714285714,4,7,3,0,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pixtral12b,W,unknown,56,56,100.0,4,4,0,0,explicit abstention,0,,
+original_challenge56,pixtral12b,A_rule,target,56,45,80.35714285714286,13,6,2,9,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pixtral12b,A_rule,donor,56,55,98.21428571428571,4,3,0,1,single-answer category assignment; hedged refinements allowed,0,,
+original_challenge56,pixtral12b,A_rule,unknown,56,56,100.0,4,4,0,0,explicit abstention,0,,
+completion38,pooled,W,target,38,29,76.31578947368422,2,11,9,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pooled,W,donor,38,36,94.73684210526315,1,3,2,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pooled,W,unknown,38,37,97.36842105263158,3,4,1,0,explicit abstention,1,,
+completion38,pooled,A_rule,target,9,8,88.88888888888889,0,1,1,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pooled,A_rule,donor,9,9,100.0,0,0,0,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pooled,A_rule,unknown,9,9,100.0,0,0,0,0,explicit abstention,1,,
+completion38,pixtral12b,W,target,38,29,76.31578947368422,2,11,9,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pixtral12b,W,donor,38,36,94.73684210526315,1,3,2,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pixtral12b,W,unknown,38,37,97.36842105263158,3,4,1,0,explicit abstention,1,,
+completion38,pixtral12b,A_rule,target,9,8,88.88888888888889,0,1,1,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pixtral12b,A_rule,donor,9,9,100.0,0,0,0,0,single-answer category assignment; hedged refinements allowed,1,,
+completion38,pixtral12b,A_rule,unknown,9,9,100.0,0,0,0,0,explicit abstention,1,,

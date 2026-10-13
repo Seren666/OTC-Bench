@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-rc1",
-  "working_title": "OTC-Bench: Overlay–Target Confusion Benchmark",
-  "paper_title": "When Overlays Become Targets: Diagnosing Target–Distractor Confusion in Vision-Language Models",
+  "version": "0.2.0-rc1",
+  "working_title": "OTC-Bench: Overlay\u9225\u63dfarget Confusion Benchmark",
+  "paper_title": "OTC-Bench: A Paired Spatial-Exchange Benchmark for Occluded Target Recognition",
   "code_repository": "https://github.com/Seren666/OTC-Bench",
   "data_repository": "https://huggingface.co/datasets/MortalSnow/OTC-Bench",
   "targets": 800,
@@ -26,5 +26,13 @@
   },
   "generation": "See cohort-specific configs. Most runs use temperature 0/top_p 1/max_tokens 32; LLaVA uses do_sample false; some old96 seeds differ.",
   "public_image_redistribution": "not included; retrieve sources under their respective licenses and reconstruct",
-  "scoring": "format_tolerant default (pre-existing uniform sensitivity) plus preserved frozen mode"
+  "scoring": "Historical CLI unchanged; paper_replay.py adds frozen W/A and paper-version analysis",
+  "paper_generation": "Primary32token outputs unchanged; separate Pixtral128token bounded sensitivity",
+  "paper_bootstrap": {
+    "draws": 10000,
+    "seed": 20261009,
+    "cluster": "target",
+    "donor_bank": "fixed"
+  },
+  "independent_response_interpretation_records": 454
 }

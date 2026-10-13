@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0-rc1",
+  "working_title": "OTC-Bench: Overlay–Target Confusion Benchmark",
+  "paper_title": "When Overlays Become Targets: Diagnosing Target–Distractor Confusion in Vision-Language Models",
+  "code_repository": "https://github.com/Seren666/OTC-Bench",
+  "data_repository": "https://huggingface.co/datasets/MortalSnow/OTC-Bench",
+  "targets": 800,
+  "pairs": 1600,
+  "stimuli": 6400,
+  "models": 6,
+  "model_answers": 38400,
+  "cohorts": {
+    "old_96": 96,
+    "old_204": 204,
+    "new_500": 500
+  },
+  "source": "COCO val2014",
+  "donor_instances": 16,
+  "donor_categories": 8,
+  "human_ratings": 3900,
+  "human_reviewed_pairs": 1300,
+  "cohort_semantics": {
+    "old_96": "Earlier development/expansion cohort",
+    "old_204": "Earlier extension, reviewed before new-500 freeze",
+    "new_500": "Later frozen target validation with existing donors; no donor-instance holdout"
+  },
+  "generation": "See cohort-specific configs. Most runs use temperature 0/top_p 1/max_tokens 32; LLaVA uses do_sample false; some old96 seeds differ.",
+  "public_image_redistribution": "not included; retrieve sources under their respective licenses and reconstruct",
+  "scoring": "format_tolerant default (pre-existing uniform sensitivity) plus preserved frozen mode"
+}

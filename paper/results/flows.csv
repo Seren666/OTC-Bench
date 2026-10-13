@@ -1,0 +1,13 @@
+model,mode,target_gain,target_loss,target_net,donor_gain,donor_loss,donor_net
+idefics3,format_tolerant,202,31,171,38,268,-230
+idefics3,head_review,202,31,171,36,270,-234
+qwen9b,format_tolerant,138,19,119,5,111,-106
+qwen9b,head_review,137,19,118,5,111,-106
+qwen,format_tolerant,166,17,149,2,74,-72
+qwen,head_review,166,17,149,2,74,-72
+internvl35,format_tolerant,222,38,184,6,236,-230
+internvl35,head_review,215,40,175,5,228,-223
+pixtral12b,format_tolerant,112,48,64,8,174,-166
+pixtral12b,head_review,72,42,30,4,115,-111
+llava15,format_tolerant,117,55,62,116,176,-60
+llava15,head_review,116,56,60,116,173,-57

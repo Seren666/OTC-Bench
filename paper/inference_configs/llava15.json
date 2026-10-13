@@ -1,0 +1,89 @@
+[
+  {
+    "cohort": "old_96",
+    "environment": {
+      "runner_sha256": "3f99ec2335de5163269ac0b5498bf6dc9623fba8e07e394934c90d51695d4ef4",
+      "python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "packages": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.49.0",
+        "Pillow": "11.3.0"
+      },
+      "gpu": "index, name, memory.total [MiB], driver_version\n0, NVIDIA RTX PRO 6000 Blackwell Server Edition, 97887 MiB, 595.71.05\n",
+      "model": {
+        "name": "LLaVA-v1.5-7B",
+        "revision": "4481d270cc22fd5c4d1bb5df129622006ccd9234",
+        "dtype": "float16",
+        "wrapper_source": "[local path omitted]",
+        "wrapper_commit": "558257b03e29a425a706a1fcb385e64e2a4623ca",
+        "vision_processor_revision": "ce19dc912ca5cd21c8a653c79e251e808ccabbd1"
+      },
+      "generation": {
+        "do_sample": false,
+        "max_new_tokens": 32,
+        "top_p": 1.0,
+        "top_k": null,
+        "temperature_argument": 1.0,
+        "seed": 20260924
+      }
+    }
+  },
+  {
+    "cohort": "old_204",
+    "environment": {
+      "runner_sha256": "3f99ec2335de5163269ac0b5498bf6dc9623fba8e07e394934c90d51695d4ef4",
+      "python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "packages": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.49.0",
+        "Pillow": "11.3.0"
+      },
+      "gpu": "index, name, memory.total [MiB], driver_version\n0, NVIDIA RTX PRO 6000 Blackwell Server Edition, 97887 MiB, 595.71.05\n",
+      "model": {
+        "name": "LLaVA-v1.5-7B",
+        "revision": "4481d270cc22fd5c4d1bb5df129622006ccd9234",
+        "dtype": "float16",
+        "wrapper_source": "[local path omitted]",
+        "wrapper_commit": "558257b03e29a425a706a1fcb385e64e2a4623ca",
+        "vision_processor_revision": "ce19dc912ca5cd21c8a653c79e251e808ccabbd1"
+      },
+      "generation": {
+        "do_sample": false,
+        "max_new_tokens": 32,
+        "top_p": 1.0,
+        "top_k": null,
+        "temperature_argument": 1.0,
+        "seed": 20260921
+      }
+    }
+  },
+  {
+    "cohort": "new_500",
+    "environment": {
+      "runner_sha256": "3f99ec2335de5163269ac0b5498bf6dc9623fba8e07e394934c90d51695d4ef4",
+      "python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+      "packages": {
+        "torch": "2.8.0+cu128",
+        "transformers": "4.49.0",
+        "Pillow": "11.3.0"
+      },
+      "gpu": "index, name, memory.total [MiB], driver_version\n0, NVIDIA RTX PRO 6000 Blackwell Server Edition, 97887 MiB, 595.71.05\n",
+      "model": {
+        "name": "LLaVA-v1.5-7B",
+        "revision": "4481d270cc22fd5c4d1bb5df129622006ccd9234",
+        "dtype": "float16",
+        "wrapper_source": "[local path omitted]",
+        "wrapper_commit": "558257b03e29a425a706a1fcb385e64e2a4623ca",
+        "vision_processor_revision": "ce19dc912ca5cd21c8a653c79e251e808ccabbd1"
+      },
+      "generation": {
+        "do_sample": false,
+        "max_new_tokens": 32,
+        "top_p": 1.0,
+        "top_k": null,
+        "temperature_argument": 1.0,
+        "seed": 20260921
+      }
+    }
+  }
+]

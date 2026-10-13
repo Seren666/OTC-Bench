@@ -1,0 +1,33 @@
+{
+  "cohort": "new_500",
+  "environment": {
+    "runner_sha256": "e1ddfe74f04c97f19fbae235e1b35fb644c94e0e3375db21a3a93b47ca9f23fa",
+    "python": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+    "packages": {
+      "torch": "2.13.0+cu132",
+      "vllm": "0.28.1rc1.dev620+g978c22f54",
+      "transformers": "5.10.4",
+      "Pillow": "12.3.0"
+    },
+    "gpu": "index, name, memory.total [MiB], driver_version\n0, NVIDIA RTX PRO 6000 Blackwell Server Edition, 97887 MiB, 595.71.05\n",
+    "model": {
+      "model": "mistralai/Pixtral-12B-2409",
+      "revision": "modelscope_master_2026-09-23",
+      "dtype": "bfloat16",
+      "max_model_len": "8192",
+      "gpu_memory_utilization": "0.85",
+      "extra_server_args": [],
+      "extra_env": {
+        "PYTHONPATH": "[local path omitted]"
+      },
+      "message_order": "image_text",
+      "chat_template_kwargs": null
+    },
+    "generation": {
+      "temperature": 0,
+      "top_p": 1,
+      "max_tokens": 128,
+      "seed": 20260921
+    }
+  }
+}

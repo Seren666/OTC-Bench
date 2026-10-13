@@ -7,3 +7,6 @@
 Pair-cluster uncertainty for rate differences is in main_table.csv: percentile intervals from 2,000 target-cluster bootstrap replicates, seed 20260930. Each sampled target retains its donor pairs. The donor bank is fixed; these intervals do not measure uncertainty over new donor categories or instances. Old300 and new500 results are separate. All800 rows are descriptive aggregation only.
 
 Figure exports: PNG previews and editable-text SVG/PDF; white background. Main comparison 10 by 5.1 inches and answer types 10 by 5 inches before tight bounding-box export. Re-size and re-check typography for the eventual paper template. No photo or pixel-level image adjustment is part of these quantitative plots.
+
+
+Historical figures above remain unchanged. Current manuscript quantitative figures and their source mapping are in `paper/figures/` and `paper/TABLE_FIGURE_MAP.md`.

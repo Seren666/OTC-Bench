@@ -1,6 +1,6 @@
 # OTC-Bench data card
 
-Overlay–Target Confusion Benchmark, version 0.1.0-rc1. Code: https://github.com/Seren666/OTC-Bench. Data: https://huggingface.co/datasets/MortalSnow/OTC-Bench.
+Overlay–Target Confusion Benchmark, version 0.2.0-rc1. Code: https://github.com/Seren666/OTC-Bench. Data: https://huggingface.co/datasets/MortalSnow/OTC-Bench.
 
 ## Question and intended use
 
@@ -8,7 +8,7 @@ Does an ordinary, non-text object pattern placed over a specified target redirec
 
 ## Sampling and provenance
 
-The benchmark retains three chronological cohorts: old96, old204 and new500, serialized as `old_96`, `old_204`, `new_500`. They contain distinct COCO val2014 image IDs. Earlier cohorts informed the research direction; the later 500 were fixed before their model outputs were inspected using annotation/geometry feasibility and image review. They reuse the fixed donor bank. Do not imply a history-free model holdout: COCO images may occur in model training, and no training-membership audit was performed.
+The benchmark retains three chronological cohorts: old 96, old 204 and new 500, serialized as `old_96`, `old_204`, `new_500`. They contain distinct COCO val 2014 image IDs. Earlier cohorts informed the research direction; the later 500 were fixed before their model outputs were inspected using annotation/geometry feasibility and image review. They reuse the fixed donor bank. Do not imply a history-free model holdout: COCO images may occur in model training, and no training-membership audit was performed.
 
 Labels and target segmentation derive from COCO instances. Target selection excludes donor-category identity matches; donor allocation and geometry use fixed rules. Frozen rectangles are authoritative for reconstruction; the release does not reselect occlusion positions or donors. The rectangle is approximately 72% of target-box width and height; its placement maximizes target-segmentation coverage subject to the original visibility constraints. This geometry search is annotation based, not a search over model failures.
 
@@ -25,7 +25,7 @@ Donor crops preserve aspect ratio within 90% of slot dimensions, with opaque RGB
 
 `covered_segmentation_fraction` uses rasterized COCO target-segmentation pixels as its denominator; it is not the rectangle-to-box area fraction. `target_bbox_xyxy_exclusive` and all slot rectangles use exclusive right/bottom edges. Pixel counts describe annotation coverage and should not be called perceptual information fractions.
 
-All 800 P slots avoid the target bounding box. For 366 targets P intersects another COCO-annotated object's bounding box; these are retained, not silently excluded. In new500, 261 targets (522 pairs) have no such overlap. Results on this geometry-defined subset remain separately available in `results/near_slot_geometry_sensitivity.csv`; annotation-box clearance is not proof that a region contains no meaningful background content.
+All 800 P slots avoid the target bounding box. For 366 targets P intersects another COCO-annotated object's bounding box; these are retained, not silently excluded. In new 500, 261 targets (522 pairs) have no such overlap. Results on this geometry-defined subset remain separately available in `results/near_slot_geometry_sensitivity.csv`; annotation-box clearance is not proof that a region contains no meaningful background content.
 
 ## Data fields
 
@@ -50,7 +50,7 @@ The first reader is research-informed. For later readers, person identity comes 
 
 ## Model/configuration provenance
 
-The six cached systems are Idefics3-8B, Qwen3.5-9B, Qwen3.5-27B, InternVL3.5-8B, Pixtral-12B and LLaVA-1.5-7B. Each was evaluated with its recorded backend and native handling. LLaVA uses a Transformers FP16 wrapper; the other recorded configurations use BF16/vLLM. Consult cohort-specific configuration records; deterministic settings, seeds and backends are not asserted to be identical across all historical runs. Some Qwen27B historical records say `local_cached_model` rather than an immutable revision, limiting exact weight-level reproduction. Cached answers, source inputs and the scorer remain reproducible.
+The six cached systems are Idefics 3-8 B, Qwen 3.5-9 B, Qwen 3.5-27 B, InternVL3.5-8 B, Pixtral-12 B and LLaVA-1.5-7 B. Each was evaluated with its recorded backend and native handling. LLaVA uses a Transformers FP16 wrapper; the other recorded configurations use BF16/vLLM. Consult cohort-specific configuration records; deterministic settings, seeds and backends are not asserted to be identical across all historical runs. Some Qwen 27 B historical records say `local_cached_model` rather than an immutable revision, limiting exact weight-level reproduction. Cached answers, source inputs and the scorer remain reproducible.
 
 The evaluation package does not automatically download weights or start inference. Native model adapters and full inference settings must be documented by anyone submitting new results. Truncation/finish reasons are retained; valid but incorrect answers must not be retried for better scores.
 
@@ -61,3 +61,9 @@ Only 16 shared donor instances from eight categories are used. The target sample
 Frozen English and Chinese parsers are versioned approximations. See SCORING.md, especially the three unsupported microwave human-category entries and the difference between a donor mention and exact category answer. Human readability is supportive evidence, not a definitive answerability label.
 
 Update rules: never overwrite v0.1.0 results; publish corrections as a new version with old outputs retained and a change log. Handle source-image removal requests by identifying affected target/donor IDs and releasing an explicit amended manifest; do not silently replace images. No formal maintenance-service promise is made until the owner selects a public contact.
+
+## Paper-version additions
+
+The primary 800 targets, 16 donors, 6,400 inputs and 38,400 answers remain unchanged. `paper/` adds W/A numerical results, revised aggregate readability votes, deidentified final response interpretation/author coding for 454 records, and Pixtral budget records. This independent interpretation audit is different from the 3,900 stimulus-readability judgments. Initial rater reliability is reported in aggregate; individual questionnaires and free-text reasons are not public. One unresolved original interpretation remains unresolved. The third rater saw the initial judgments and performed adjudication, not a third independent annotation.
+
+`paper/manifest.json` and `paper/TABLE_FIGURE_MAP.md` define the manuscript-version mapping. Four-condition comparisons retain shared O/G answers. Scores, aliases, budgets, human coding and subset memberships are separate versions; primary answers and historical results are not overwritten. See `paper/README.md` for qualifications.

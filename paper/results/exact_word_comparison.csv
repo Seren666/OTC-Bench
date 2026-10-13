@@ -1,0 +1,13 @@
+﻿model,scoring,pairs,T_target,N_target,target_N_T_pp,T_donor_inclusive,N_donor_inclusive,donor_inclusive_N_T_pp
+idefics3,frozen,1000,201,369,16.8,383,153,-23.0
+qwen9b,frozen,1000,90,205,11.5,115,8,-10.7
+qwen,frozen,1000,550,696,14.6,85,13,-7.2
+internvl35,frozen,1000,214,329,11.5,254,19,-23.5
+pixtral12b,frozen,1000,0,0,0.0,194,17,-17.7
+llava15,frozen,1000,237,288,5.1,322,262,-6.0
+idefics3,format_tolerant,1000,201,372,17.1,383,153,-23.0
+qwen9b,format_tolerant,1000,92,211,11.9,114,8,-10.6
+qwen,format_tolerant,1000,560,709,14.9,85,13,-7.2
+internvl35,format_tolerant,1000,336,520,18.4,249,19,-23.0
+pixtral12b,format_tolerant,1000,201,265,6.4,183,17,-16.6
+llava15,format_tolerant,1000,239,301,6.2,322,262,-6.0

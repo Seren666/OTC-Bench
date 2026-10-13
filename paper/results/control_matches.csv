@@ -1,0 +1,7 @@
+﻿model,mode,subset,n_pairs,n_targets,donor_check_matches,T_donor_n,N-near_donor_n
+idefics3,format_tolerant,O_G_check,278,171,734,121,30
+qwen9b,format_tolerant,O_G_check,228,140,777,25,3
+qwen,format_tolerant,O_G_check,548,334,750,36,4
+internvl35,format_tolerant,O_G_check,357,240,683,103,6
+pixtral12b,format_tolerant,O_G_check,153,109,527,42,2
+llava15,format_tolerant,O_G_check,246,156,559,122,68

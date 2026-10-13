@@ -1,0 +1,455 @@
+﻿audit_id,model,request_id,target_id,donor_id,condition,version,source_batch,probability_sample,target_category,donor_category,W,A_rule,final_interpretation_decision,final_category_phrases,author_concepts,review_origin,author_label,single_target,single_donor,abstention,target_candidate_member,donor_candidate_member,decision_agree,literal_category_agree
+f473c8d34a18042f,idefics3,T0358__D02__T,T0358,D02,T,original,original416,True,dining table,backpack,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+fc15923999ac6143,idefics3,T0777__D13__T,T0777,D13,T,original,original416,True,oven,sandwich,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+ad737d7375e0abce,internvl35,T0358__D02__T,T0358,D02,T,original,original416,True,dining table,backpack,other,other,single,bag,__broad_bag,two_rater_agreement,other,False,False,False,False,False,True,True
+275fde719d0fea8b,pixtral12b,T0603__D09__N-near,T0603,D09,N-near,original,original416,False,suitcase,cow,other,ambiguous,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+be6b586bc670d230,qwen9b,T0629__D07__T,T0629,D07,T,original,original416,True,suitcase,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+4f2b6e175e2e51a6,qwen9b,T0385__D14__T,T0385,D14,T,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+970fd69a238522f6,qwen9b,T0685__D11__N-near,T0685,D11,N-near,original,original416,True,horse,dog,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+e07288c296bb89fe,qwen,T0593__O,T0593,,O,original,original416,True,chair,,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+17aa7d2c8c45ceef,internvl35,T0685__D05__T,T0685,D05,T,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+b6e7e61165495af2,qwen,T0536__O,T0536,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+01e0bc41513c0cc3,qwen9b,T0734__D15__N-near,T0734,D15,N-near,original,original416,True,bus,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+16b980c9cbfac4de,pixtral12b,T0314__D02__T,T0314,D02,T,cap128,completion38,False,truck,backpack,target,,single,furniture;sofa;upholstered item,__broad_furniture;__upholstered_item;couch,third_human_adjudication,other,False,False,False,False,False,True,False
+4f32068f537fd98a,pixtral12b,T0723__D13__N-near,T0723,D13,N-near,original,original416,False,horse,sandwich,target,ambiguous,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+cdad9c2830f23c21,pixtral12b,T0761__D04__T,T0761,D04,T,original,original416,False,banana,bicycle,donor,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+44d58348f5b4ba5a,internvl35,T0734__D15__N-near,T0734,D15,N-near,original,original416,True,bus,umbrella,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+77bb65441b8cface,pixtral12b,T0599__O,T0599,,O,original,original416,True,tv,,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+a668161afc2d742a,internvl35,T0612__D13__T,T0612,D13,T,original,original416,True,cell phone,sandwich,target,target,single,smartphone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+50713fce93207bf9,pixtral12b,T0385__D15__N-near,T0385,D15,N-near,original,original416,True,fire hydrant,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+3574ad87fcf87893,qwen9b,T0599__D02__T,T0599,D02,T,original,original416,True,tv,backpack,donor,donor,single,backpack,backpack,two_rater_agreement,donor,False,True,False,False,True,True,True
+ba4abb9592e8682f,idefics3,T0536__D06__N-near,T0536,D06,N-near,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+72f5a186d4cac211,qwen9b,T0599__D02__N-near,T0599,D02,N-near,original,original416,True,tv,backpack,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+4911ae877a119b8e,pixtral12b,T0569__D13__N-near,T0569,D13,N-near,original,original416,False,cup,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+ee27f83388b15d0b,idefics3,T0734__G,T0734,,G,original,original416,True,bus,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+0551b838f1f412ea,internvl35,T0629__O,T0629,,O,original,original416,True,suitcase,,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+e86997a806df88ae,pixtral12b,T0599__D02__T,T0599,D02,T,original,original416,True,tv,backpack,other,other,single,handbag;purse,handbag,two_rater_agreement,other,False,False,False,False,False,True,True
+da420ab59f7b0b43,pixtral12b,T0385__D15__T,T0385,D15,T,original,original416,True,fire hydrant,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+05e1240f0e825efb,pixtral12b,T0599__D02__N-near,T0599,D02,N-near,original,original416,True,tv,backpack,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+eeb1e65e51e0c605,internvl35,T0593__D08__T,T0593,D08,T,original,original416,True,chair,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+468ea6ffe655f947,qwen,T0385__D14__T,T0385,D14,T,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+94437412d79f3902,qwen,T0777__O,T0777,,O,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+b76697cb056c619f,internvl35,T0536__D04__N-near,T0536,D04,N-near,original,original416,True,horse,bicycle,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+7bd1d13c55a767a2,llava15,T0385__D14__N-near,T0385,D14,N-near,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+4b53a787c6341d18,qwen9b,T0629__G,T0629,,G,original,original416,True,suitcase,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+812d28105afd7127,pixtral12b,T0571__D08__N-near,T0571,D08,N-near,original,original416,False,horse,cat,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+94ac9e976fe2d248,llava15,T0612__O,T0612,,O,original,original416,True,cell phone,,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+b8c37a6c288f8dc4,pixtral12b,T0546__D09__T,T0546,D09,T,original,original416,False,surfboard,cow,other,other,single,dog,dog,two_rater_agreement,other,False,False,False,False,False,True,True
+8a69a18118a2ba76,pixtral12b,T0486__D03__N-near,T0486,D03,N-near,original,original416,False,tv,bicycle,target,target,single,computer monitor,__monitor,two_rater_agreement,other,False,False,False,False,False,True,True
+008b479c58124be7,qwen,T0536__G,T0536,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+a7cf92bb63b2b9bf,llava15,T0593__D05__N-near,T0593,D05,N-near,original,original416,True,chair,cake,other,other,single,girl,person,two_rater_agreement,other,False,False,False,False,False,True,True
+ca66434059ccbdc0,internvl35,T0536__D06__N-near,T0536,D06,N-near,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+0933346d435774c6,pixtral12b,T0777__D13__T,T0777,D13,T,original,original416,True,oven,sandwich,donor,donor,single,sandwich,sandwich,two_rater_agreement,donor,False,True,False,False,True,True,True
+8c38a560de80e6f8,pixtral12b,T0749__D07__T,T0749,D07,T,original,original416,False,handbag,cat,other,other,single,dog;puppy,dog,third_human_adjudication,other,False,False,False,False,False,True,False
+4a79608adccffabc,llava15,T0536__G,T0536,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+eeda1e7dc1741f9f,idefics3,T0685__O,T0685,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+701327fb043df232,idefics3,T0593__D05__N-near,T0593,D05,N-near,original,original416,True,chair,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+34eb385bfc2313f5,pixtral12b,T0777__G,T0777,,G,original,original416,True,oven,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+bd7921eda922d0da,pixtral12b,T0385__D14__T,T0385,D14,T,original,original416,True,fire hydrant,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+4814726bb6eb53b5,pixtral12b,T0394__D02__N-near,T0394,D02,N-near,cap128,completion38,False,oven,backpack,other,,single,kitchen countertop,__countertop,third_human_adjudication,other,False,False,False,False,False,True,False
+d27cc3faa5a09a5a,llava15,T0734__D07__N-near,T0734,D07,N-near,original,original416,True,bus,cat,other,other,single,man,person,two_rater_agreement,other,False,False,False,False,False,True,True
+ec1f7af97be0a48e,internvl35,T0593__O,T0593,,O,original,original416,True,chair,,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+109c66363e712089,qwen9b,T0629__D06__T,T0629,D06,T,original,original416,True,suitcase,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+7ce28ceee129b8c0,pixtral12b,T0686__D10__N-near,T0686,D10,N-near,original,original416,False,toaster,cow,other,ambiguous,multiple,cat;dog,cat;dog,two_rater_agreement,ambiguous,False,False,False,False,False,True,True
+14e13a31a8606bc6,qwen9b,T0385__G,T0385,,G,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+fb2a35663cbcda97,pixtral12b,T0486__D03__T,T0486,D03,T,original,original416,False,tv,bicycle,ambiguous,target,single,computer monitor,__monitor,two_rater_agreement,other,False,False,False,False,False,True,True
+54ab4a51ef77e537,llava15,T0629__O,T0629,,O,original,original416,True,suitcase,,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+d7bc384bd8aaf11c,qwen,T0536__D06__T,T0536,D06,T,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+5d7deb150214f695,idefics3,T0536__D06__T,T0536,D06,T,original,original416,True,horse,cake,other,other,single,m&m's,__candy,two_rater_agreement,other,False,False,False,False,False,True,True
+24a4b854ce39907f,pixtral12b,T0358__G,T0358,,G,original,original416,True,dining table,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+0cb6f16c8ee01a13,idefics3,T0599__D15__N-near,T0599,D15,N-near,original,original416,True,tv,umbrella,target,target,single,tv,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+2f78ce6d3da0f35a,internvl35,T0358__D14__T,T0358,D14,T,original,original416,True,dining table,sandwich,other,donor,single,sandwiches,sandwich,third_human_adjudication,donor,False,True,False,False,True,True,False
+227ae08498a58aa1,internvl35,T0536__D04__T,T0536,D04,T,original,original416,True,horse,bicycle,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+ba2f9ba9e9494f66,llava15,T0777__D13__T,T0777,D13,T,original,original416,True,oven,sandwich,donor,donor,single,sandwich,sandwich,two_rater_agreement,donor,False,True,False,False,True,True,True
+213d2b0c7ab8b599,qwen,T0599__D02__T,T0599,D02,T,original,original416,True,tv,backpack,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+909e8c0f9efd8152,qwen9b,T0599__G,T0599,,G,original,original416,True,tv,,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+669c52c36b884d73,internvl35,T0385__G,T0385,,G,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+01253a383df49694,idefics3,T0599__D02__T,T0599,D02,T,original,original416,True,tv,backpack,target,target,single,tv,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+0342bd23c8cfb82f,idefics3,T0593__D08__N-near,T0593,D08,N-near,original,original416,True,chair,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+9ea34fa10241d051,pixtral12b,T0754__D08__N-near,T0754,D08,N-near,original,original416,False,suitcase,cat,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+8a6ad3b3fefd431a,qwen,T0612__D08__T,T0612,D08,T,original,original416,True,cell phone,cat,target,target,single,cell phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+51f96e08f10dd9b1,pixtral12b,T0524__D08__N-near,T0524,D08,N-near,original,original416,False,train,cat,target,ambiguous,single,train,train,two_rater_agreement,target,True,False,False,True,False,True,True
+d66e5d2c916acf47,qwen,T0734__D15__T,T0734,D15,T,original,original416,True,bus,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+cf3c5cb986795ff4,pixtral12b,T0734__G,T0734,,G,original,original416,True,bus,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+29d820ab51d09cf8,qwen,T0612__O,T0612,,O,original,original416,True,cell phone,,target,target,single,cell phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+568b0ed9c90c0405,llava15,T0777__O,T0777,,O,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+21727ca43f96426a,llava15,T0358__D02__N-near,T0358,D02,N-near,original,original416,True,dining table,backpack,other,other,single,woman,person,two_rater_agreement,other,False,False,False,False,False,True,True
+5cdade574b84e512,pixtral12b,T0723__D13__T,T0723,D13,T,original,original416,False,horse,sandwich,target,ambiguous,single,harness;equipment,__equipment;__harness,third_human_adjudication,other,False,False,False,False,False,True,False
+9217ad345f4960e4,qwen9b,T0777__G,T0777,,G,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+998afa1cb54e69e8,idefics3,T0629__D07__T,T0629,D07,T,original,original416,True,suitcase,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+4aec984f43f647b6,llava15,T0734__G,T0734,,G,original,original416,True,bus,,other,other,single,man,person,two_rater_agreement,other,False,False,False,False,False,True,True
+7a968a5d668573f4,llava15,T0536__D06__N-near,T0536,D06,N-near,original,original416,True,horse,cake,donor,donor,single,cake,cake,two_rater_agreement,donor,False,True,False,False,True,True,True
+919b3b8426247aaf,qwen9b,T0629__O,T0629,,O,original,original416,True,suitcase,,target,target,single,suitcase,suitcase,two_rater_agreement,target,True,False,False,True,False,True,True
+fcb90f9b8a3d9c07,internvl35,T0612__O,T0612,,O,original,original416,True,cell phone,,target,target,single,smartphone,cell phone,third_human_adjudication,target,True,False,False,True,False,True,False
+f16c75da4bebca97,idefics3,T0536__G,T0536,,G,original,original416,True,horse,,other,other,single,leg,__person_part,two_rater_agreement,other,False,False,False,False,False,True,True
+78c1d69760b8e024,internvl35,T0593__D05__T,T0593,D05,T,original,original416,True,chair,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+876532777b3d58fd,idefics3,T0734__O,T0734,,O,original,original416,True,bus,,target,target,single,bus,bus,two_rater_agreement,target,True,False,False,True,False,True,True
+a3c48b26e705997e,qwen,T0385__D15__T,T0385,D15,T,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+95ea0b309994776c,pixtral12b,T0544__D05__T,T0544,D05,T,original,original416,False,airplane,cake,target,target,single,airplane,airplane,two_rater_agreement,target,True,False,False,True,False,True,True
+843aae442b00e817,internvl35,T0599__D02__N-near,T0599,D02,N-near,original,original416,True,tv,backpack,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+998448196fa0a340,qwen,T0593__G,T0593,,G,original,original416,True,chair,,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+6f7184c20d567dbd,llava15,T0734__O,T0734,,O,original,original416,True,bus,,other,other,single,man,person,two_rater_agreement,other,False,False,False,False,False,True,True
+6f66eb9bdca94fac,llava15,T0612__D08__T,T0612,D08,T,original,original416,True,cell phone,cat,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+f65d7b5531e5f9d4,pixtral12b,T0358__O,T0358,,O,original,original416,True,dining table,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+9d0ac0155861587e,pixtral12b,T0571__D08__T,T0571,D08,T,original,original416,False,horse,cat,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+a0647d1e9abf76a7,pixtral12b,T0314__D02__T,T0314,D02,T,original,completion38,False,truck,backpack,other,other,single,furniture;sofa;upholstered item,__broad_furniture;__upholstered_item;couch,third_human_adjudication,other,False,False,False,False,False,True,False
+9ac7a6f45f7344c6,pixtral12b,T0612__D13__T,T0612,D13,T,original,original416,True,cell phone,sandwich,donor,donor,single,sandwich,sandwich,two_rater_agreement,donor,False,True,False,False,True,True,True
+c77a4c8743851a99,idefics3,T0385__D14__T,T0385,D14,T,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+f6a26f426033d152,llava15,T0599__D15__N-near,T0599,D15,N-near,original,original416,True,tv,umbrella,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+c0ef018f157e7e91,pixtral12b,T0723__D13__T,T0723,D13,T,cap128,completion38,False,horse,sandwich,target,,single,harness;equipment,__equipment;__harness,third_human_adjudication,other,False,False,False,False,False,True,False
+6c08c6612b94b32e,pixtral12b,T0710__D13__N-near,T0710,D13,N-near,original,original416,False,truck,sandwich,other,other,single,people,person,two_rater_agreement,other,False,False,False,False,False,True,True
+eb277de8868bbe1c,pixtral12b,T0593__O,T0593,,O,original,original416,True,chair,,other,ambiguous,single,arm;hand,__person_part,third_human_adjudication,other,False,False,False,False,False,True,False
+60532ea05ffa0d0c,pixtral12b,T0612__O,T0612,,O,original,original416,True,cell phone,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+85edde0eb8170ba6,pixtral12b,T0423__D10__N-near,T0423,D10,N-near,original,completion38,False,surfboard,cow,other,ambiguous,single,leg,__person_part,third_human_adjudication,other,False,False,False,False,False,True,False
+6fbbfa78035d9d99,qwen,T0629__O,T0629,,O,original,original416,True,suitcase,,target,target,single,suitcase,suitcase,two_rater_agreement,target,True,False,False,True,False,True,True
+fb954c7abedbe337,qwen9b,T0358__D02__N-near,T0358,D02,N-near,original,original416,True,dining table,backpack,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+605758b0fff2843f,pixtral12b,T0321__D13__N-near,T0321,D13,N-near,original,completion38,False,chair,sandwich,other,ambiguous,single,seating,__seating,two_rater_agreement,other,False,False,False,False,False,True,True
+b68c91f0cb2a5290,pixtral12b,T0385__D14__N-near,T0385,D14,N-near,original,original416,True,fire hydrant,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+45e318cd047fa4e7,llava15,T0593__O,T0593,,O,original,original416,True,chair,,other,other,single,laptop,laptop,two_rater_agreement,other,False,False,False,False,False,True,True
+47e371614d5a9b69,pixtral12b,T0685__D11__T,T0685,D11,T,original,original416,True,horse,dog,other,other,single,cow,cow,two_rater_agreement,other,False,False,False,False,False,True,True
+90527e3327fcf14f,qwen,T0734__D15__N-near,T0734,D15,N-near,original,original416,True,bus,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+e6676d1023da54a6,internvl35,T0536__O,T0536,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+6d794fab4e2b9451,llava15,T0385__D15__N-near,T0385,D15,N-near,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+47ccb576e807a845,internvl35,T0734__G,T0734,,G,original,original416,True,bus,,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+780b675f10436ae1,qwen9b,T0358__O,T0358,,O,original,original416,True,dining table,,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+8b45067a3da8251c,pixtral12b,T0685__O,T0685,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+eadb2b53a87de48f,idefics3,T0777__D13__N-near,T0777,D13,N-near,original,original416,True,oven,sandwich,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+fc28eec48b315df0,pixtral12b,T0603__D09__T,T0603,D09,T,cap128,completion38,False,suitcase,cow,other,,multiple,toy;street art,__art;__toy,two_rater_agreement,ambiguous,False,False,False,False,False,True,True
+f3365a412fc7df48,pixtral12b,T0569__D13__T,T0569,D13,T,original,original416,False,cup,sandwich,donor,ambiguous,multiple,sandwich;wrap,__wrap;sandwich,two_rater_agreement,ambiguous,False,False,False,False,True,True,True
+bbad0b3a6c1f13a0,llava15,T0599__O,T0599,,O,original,original416,True,tv,,other,other,single,dog,dog,two_rater_agreement,other,False,False,False,False,False,True,True
+c46f6671ffe31be0,pixtral12b,T0754__D08__T,T0754,D08,T,original,original416,False,suitcase,cat,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+4bcb899f39bc628d,pixtral12b,T0329__D12__T,T0329,D12,T,original,original416,False,motorcycle,dog,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+e1fefed13e215a33,qwen9b,T0629__D07__N-near,T0629,D07,N-near,original,original416,True,suitcase,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+994985f44ffb05e0,qwen,T0777__G,T0777,,G,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+0068f9bd423b058d,internvl35,T0612__D08__T,T0612,D08,T,original,original416,True,cell phone,cat,target,target,single,smartphone,cell phone,third_human_adjudication,target,True,False,False,True,False,True,False
+97449144af9f608f,pixtral12b,T0788__D10__T,T0788,D10,T,original,original416,False,clock,cow,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+8d3a5b97b7b0c6da,qwen,T0629__D07__N-near,T0629,D07,N-near,original,original416,True,suitcase,cat,target,target,single,suitcase,suitcase,two_rater_agreement,target,True,False,False,True,False,True,True
+77c7c3915ddc60d8,pixtral12b,T0612__D08__T,T0612,D08,T,original,original416,True,cell phone,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+fcbf5a798290c7cc,qwen9b,T0777__O,T0777,,O,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+52bf6af49f1143c8,llava15,T0358__G,T0358,,G,original,original416,True,dining table,,other,other,single,woman,person,two_rater_agreement,other,False,False,False,False,False,True,True
+70867f2187c679c7,pixtral12b,T0367__D15__N-near,T0367,D15,N-near,cap128,completion38,False,motorcycle,umbrella,target,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+e723ba92a5a263db,pixtral12b,T0599__D15__N-near,T0599,D15,N-near,original,original416,True,tv,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+852993d30b176c86,llava15,T0593__G,T0593,,G,original,original416,True,chair,,other,other,single,laptop,laptop,two_rater_agreement,other,False,False,False,False,False,True,True
+88bc0fa65f389d8f,qwen9b,T0629__D06__N-near,T0629,D06,N-near,original,original416,True,suitcase,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+d2f8800650e95063,idefics3,T0734__D07__T,T0734,D07,T,original,original416,True,bus,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+455fe4afdcb246d5,qwen9b,T0777__D13__T,T0777,D13,T,original,original416,True,oven,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+8fcc7aa661984695,internvl35,T0599__D15__N-near,T0599,D15,N-near,original,original416,True,tv,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+69d75d79d769bb11,pixtral12b,T0593__D08__T,T0593,D08,T,original,original416,True,chair,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+e49692988c391ca3,pixtral12b,T0406__D03__N-near,T0406,D03,N-near,original,original416,False,teddy bear,bicycle,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+6bb5ccbbf3c9de58,pixtral12b,T0685__D05__T,T0685,D05,T,cap128,completion38,False,horse,cake,other,,single,machine;device;cotton candy maker,__broad_machine;__device;__machine,third_human_adjudication,other,False,False,False,False,False,True,False
+717e758c43efe3bf,internvl35,T0685__D05__N-near,T0685,D05,N-near,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+2389f7dffe689ecc,pixtral12b,T0603__D09__N-near,T0603,D09,N-near,cap128,completion38,False,suitcase,cow,other,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+1ad808a12c2bd16b,internvl35,T0629__D06__T,T0629,D06,T,original,original416,True,suitcase,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+2b2869e34c51b112,qwen,T0593__D08__T,T0593,D08,T,original,original416,True,chair,cat,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+a7ad9dccc815d50a,pixtral12b,T0574__D02__N-near,T0574,D02,N-near,original,completion38,False,chair,backpack,other,ambiguous,single,pizza box,__pizza_box,two_rater_agreement,other,False,False,False,False,False,True,True
+82ebde7efd533d1f,llava15,T0777__D07__N-near,T0777,D07,N-near,original,original416,True,oven,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+0df4ea07608c6a90,internvl35,T0685__O,T0685,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+eedcd7397fc99b71,qwen,T0599__D15__N-near,T0599,D15,N-near,original,original416,True,tv,umbrella,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+6ae9afa9ad053567,pixtral12b,T0748__D13__T,T0748,D13,T,original,original416,False,truck,sandwich,other,other,single,advertisement;billboard,__advertisement;__billboard,third_human_adjudication,other,False,False,False,False,False,False,False
+13cd8637e110015a,idefics3,T0612__O,T0612,,O,original,original416,True,cell phone,,target,target,single,phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+794ef6325656f064,qwen9b,T0612__G,T0612,,G,original,original416,True,cell phone,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+964816460bb41e0a,pixtral12b,T0749__D07__N-near,T0749,D07,N-near,original,original416,False,handbag,cat,other,ambiguous,multiple,beach towel;blanket,__blanket;__towel,two_rater_agreement,ambiguous,False,False,False,False,False,True,True
+716649d7f377ad58,qwen,T0734__D07__T,T0734,D07,T,original,original416,True,bus,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+08769f14c50667c0,pixtral12b,T0685__D05__N-near,T0685,D05,N-near,cap128,completion38,False,horse,cake,other,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+70485e4b54986615,pixtral12b,T0478__D05__T,T0478,D05,T,cap128,completion38,False,tv,cake,ambiguous,,single,computer monitor,__monitor,two_rater_agreement,other,False,False,False,False,False,True,True
+8dc7041e1b5e3b68,qwen,T0358__D02__N-near,T0358,D02,N-near,original,original416,True,dining table,backpack,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+c44e790bc7c63073,idefics3,T0629__G,T0629,,G,original,original416,True,suitcase,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+4ef33e19a77e0bd6,qwen9b,T0612__D08__T,T0612,D08,T,original,original416,True,cell phone,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+13f0ddeaa417b364,idefics3,T0777__D07__N-near,T0777,D07,N-near,original,original416,True,oven,cat,other,other,single,pan,__pan,two_rater_agreement,other,False,False,False,False,False,True,True
+b735c96615e8c412,qwen9b,T0734__D07__N-near,T0734,D07,N-near,original,original416,True,bus,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+4f179583ea89a8ac,llava15,T0385__O,T0385,,O,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+f3263b8516d6b1b9,idefics3,T0536__D04__N-near,T0536,D04,N-near,original,original416,True,horse,bicycle,other,other,single,police officer,person,two_rater_agreement,other,False,False,False,False,False,True,True
+e8e9ca5bc5a9c1c2,pixtral12b,T0406__D03__T,T0406,D03,T,original,original416,False,teddy bear,bicycle,other,ambiguous,single,motorcycle,motorcycle,two_rater_agreement,other,False,False,False,False,False,True,True
+eec52799425768b2,qwen9b,T0385__D14__N-near,T0385,D14,N-near,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+2bb14bad75578b77,pixtral12b,T0629__G,T0629,,G,original,original416,True,suitcase,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+7d49c5dabafb11ac,qwen,T0385__O,T0385,,O,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+474648453551fa97,internvl35,T0599__D02__T,T0599,D02,T,original,original416,True,tv,backpack,target,target,single,tv,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+c6fa5ebcadc064d3,pixtral12b,T0593__D08__N-near,T0593,D08,N-near,original,original416,True,chair,cat,other,other,single,laptop computer,laptop,two_rater_agreement,other,False,False,False,False,False,True,True
+f0a171ed40fdb6e0,pixtral12b,T0524__D08__T,T0524,D08,T,original,original416,False,train,cat,target,ambiguous,single,front window;windshield,__front_window;__windshield,third_human_adjudication,other,False,False,False,False,False,True,False
+50e3eed2e7155841,idefics3,T0734__D15__N-near,T0734,D15,N-near,original,original416,True,bus,umbrella,donor,donor,single,umbrella,umbrella,two_rater_agreement,donor,False,True,False,False,True,True,True
+68484ed14e73323e,idefics3,T0358__D14__N-near,T0358,D14,N-near,original,original416,True,dining table,sandwich,other,other,single,plate,__plate,two_rater_agreement,other,False,False,False,False,False,True,True
+80589c35e3f5b05d,qwen,T0777__D13__N-near,T0777,D13,N-near,original,original416,True,oven,sandwich,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+b6ef65285dcd2b16,idefics3,T0777__G,T0777,,G,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+9b21e58a876d95ab,qwen9b,T0593__D08__T,T0593,D08,T,original,original416,True,chair,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+f14e1039558eeb19,llava15,T0358__D14__N-near,T0358,D14,N-near,original,original416,True,dining table,sandwich,other,other,single,woman,person,two_rater_agreement,other,False,False,False,False,False,True,True
+687654ba8080a696,llava15,T0593__D05__T,T0593,D05,T,original,original416,True,chair,cake,other,other,single,laptop,laptop,two_rater_agreement,other,False,False,False,False,False,True,True
+a50696ce90d3ff4d,pixtral12b,T0423__D10__N-near,T0423,D10,N-near,cap128,completion38,False,surfboard,cow,target,,multiple,leg;surfboard part,__person_part;__surfboard_part,third_human_adjudication,ambiguous,False,False,False,False,False,True,False
+dcc3bdc19b3c455c,qwen9b,T0358__D14__T,T0358,D14,T,original,original416,True,dining table,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+eb4c47a19e64bc81,idefics3,T0593__D05__T,T0593,D05,T,original,original416,True,chair,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+6c1c59a3e2a4da90,idefics3,T0734__D15__T,T0734,D15,T,original,original416,True,bus,umbrella,donor,donor,single,umbrella,umbrella,two_rater_agreement,donor,False,True,False,False,True,True,True
+72069cf36434ecb6,pixtral12b,T0546__D03__N-near,T0546,D03,N-near,original,original416,False,surfboard,bicycle,target,ambiguous,single,surfboard,surfboard,two_rater_agreement,target,True,False,False,True,False,True,True
+0735588233472b97,llava15,T0612__G,T0612,,G,original,original416,True,cell phone,,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+4bef3660dc676ed0,qwen,T0629__D07__T,T0629,D07,T,original,original416,True,suitcase,cat,target,target,single,suitcase,suitcase,two_rater_agreement,target,True,False,False,True,False,True,True
+f1db93461a3efb72,internvl35,T0358__D02__N-near,T0358,D02,N-near,original,original416,True,dining table,backpack,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+903a7460eccf729d,internvl35,T0612__D13__N-near,T0612,D13,N-near,original,original416,True,cell phone,sandwich,target,ambiguous,single,phone case,__phone_case,two_rater_agreement,other,False,False,False,False,False,True,True
+239f34b5ecabecb5,pixtral12b,T0546__D03__T,T0546,D03,T,cap128,completion38,False,surfboard,bicycle,other,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+69fe0112f8c506d9,internvl35,T0358__D14__N-near,T0358,D14,N-near,original,original416,True,dining table,sandwich,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+cadba6627c272bf3,idefics3,T0599__O,T0599,,O,original,original416,True,tv,,target,target,single,tv,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+6a1ad2ffb0892588,llava15,T0685__G,T0685,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+056933d1a1615955,pixtral12b,T0385__O,T0385,,O,original,original416,True,fire hydrant,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+37cb8dc5dd0b0115,internvl35,T0629__D07__N-near,T0629,D07,N-near,original,original416,True,suitcase,cat,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+6f9daa87e966e253,qwen,T0685__D11__N-near,T0685,D11,N-near,original,original416,True,horse,dog,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+6c00359aec216e83,qwen9b,T0685__O,T0685,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+552cabc40789725e,qwen9b,T0536__D04__N-near,T0536,D04,N-near,original,original416,True,horse,bicycle,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+b01eb8c4218ecd6e,internvl35,T0593__D08__N-near,T0593,D08,N-near,original,original416,True,chair,cat,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+9b8d6054f4df171b,pixtral12b,T0358__D14__N-near,T0358,D14,N-near,original,original416,True,dining table,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+f7f0e847084e5859,internvl35,T0734__D07__T,T0734,D07,T,original,original416,True,bus,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+07cdd52f1f540d42,pixtral12b,T0356__D03__N-near,T0356,D03,N-near,original,original416,False,tv,bicycle,target,target,single,television set,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+7975a96db66980ca,pixtral12b,T0478__D05__T,T0478,D05,T,original,completion38,False,tv,cake,target,target,single,computer monitor,__monitor,two_rater_agreement,other,False,False,False,False,False,True,True
+f71726796f5d15ac,qwen9b,T0599__D15__T,T0599,D15,T,original,original416,True,tv,umbrella,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+02e0e79519b04413,llava15,T0777__G,T0777,,G,original,original416,True,oven,,target,target,single,oven,oven,two_rater_agreement,target,True,False,False,True,False,True,True
+3b5383876ddabc1d,idefics3,T0685__G,T0685,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+85bf2cb9ad4ad371,pixtral12b,T0546__D03__T,T0546,D03,T,original,original416,False,surfboard,bicycle,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+48bfec02a1c7df48,pixtral12b,T0754__D08__N-near,T0754,D08,N-near,cap128,completion38,False,suitcase,cat,other,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+c8e151023b2bf4f8,qwen,T0599__D02__N-near,T0599,D02,N-near,original,original416,True,tv,backpack,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+82b58b1a28d954f4,pixtral12b,T0710__D13__T,T0710,D13,T,original,original416,False,truck,sandwich,donor,ambiguous,single,food item;sandwich;meal,__broad_food;__broad_meal;sandwich,third_human_adjudication,donor,False,True,False,False,True,True,False
+4c721351b86ea501,internvl35,T0593__G,T0593,,G,original,original416,True,chair,,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+ea3d675982166676,qwen9b,T0612__D13__N-near,T0612,D13,N-near,original,original416,True,cell phone,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+d17e27969fb45c42,qwen,T0685__D11__T,T0685,D11,T,original,original416,True,horse,dog,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+8fbc9970d3ab2962,pixtral12b,T0402__D09__T,T0402,D09,T,original,original416,False,handbag,cow,donor,donor,single,cow,cow,two_rater_agreement,donor,False,True,False,False,True,True,True
+ca09f1d42cc64775,pixtral12b,T0321__D13__N-near,T0321,D13,N-near,cap128,completion38,False,chair,sandwich,unknown,,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+5b2c6c5d73cebbd0,pixtral12b,T0593__D05__N-near,T0593,D05,N-near,original,original416,True,chair,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+928295e175669989,llava15,T0385__D15__T,T0385,D15,T,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+faa197c226d3f82f,qwen,T0536__D06__N-near,T0536,D06,N-near,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+0670854dd1485d90,pixtral12b,T0685__D11__N-near,T0685,D11,N-near,original,original416,True,horse,dog,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+7244d2843bcc4d50,pixtral12b,T0748__D13__N-near,T0748,D13,N-near,original,original416,False,truck,sandwich,target,ambiguous,multiple,trailer;truck,__trailer;truck,two_rater_agreement,ambiguous,False,False,False,True,False,True,True
+99f3e86dab968fdf,qwen9b,T0358__D14__N-near,T0358,D14,N-near,original,original416,True,dining table,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+058e7c5bfb40b02e,pixtral12b,T0574__D02__N-near,T0574,D02,N-near,cap128,completion38,False,chair,backpack,unknown,,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+7f01f192241db588,qwen,T0358__O,T0358,,O,original,original416,True,dining table,,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+05f468f0f04e8ded,llava15,T0599__G,T0599,,G,original,original416,True,tv,,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+fb3c367932787cf3,pixtral12b,T0777__D07__N-near,T0777,D07,N-near,original,original416,True,oven,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+43e11380239601fd,llava15,T0599__D15__T,T0599,D15,T,original,original416,True,tv,umbrella,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+badb9a42badafe7d,llava15,T0629__D07__T,T0629,D07,T,original,original416,True,suitcase,cat,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+4bc11d49b2d3f574,pixtral12b,T0748__D05__T,T0748,D05,T,original,original416,False,truck,cake,target,ambiguous,single,trailer truck,truck,two_rater_agreement,target,True,False,False,True,False,True,True
+3f747777937fbc89,pixtral12b,T0358__D02__N-near,T0358,D02,N-near,original,original416,True,dining table,backpack,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+c106c257b8bf9fbd,pixtral12b,T0364__D11__N-near,T0364,D11,N-near,original,original416,False,boat,dog,other,ambiguous,single,statue,__statue,two_rater_agreement,other,False,False,False,False,False,True,True
+eb0cc206b2a7c412,internvl35,T0777__D07__T,T0777,D07,T,original,original416,True,oven,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+6fd723ef308bb5a4,pixtral12b,T0748__D13__T,T0748,D13,T,cap128,completion38,False,truck,sandwich,other,,single,advertisement;billboard,__advertisement;__billboard,third_human_adjudication,other,False,False,False,False,False,True,False
+f875ef9f193e552a,pixtral12b,T0593__G,T0593,,G,original,original416,True,chair,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+d7b87605f9f8b873,pixtral12b,T0548__D08__T,T0548,D08,T,original,original416,False,train,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+6144053e5ea82a56,qwen,T0358__D14__T,T0358,D14,T,original,original416,True,dining table,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+008d94d6267f617d,pixtral12b,T0686__D10__N-near,T0686,D10,N-near,cap128,completion38,False,toaster,cow,unknown,,multiple,cat;dog,cat;dog,two_rater_agreement,ambiguous,False,False,False,False,False,True,True
+8472856b2a304a07,pixtral12b,T0704__D09__N-near,T0704,D09,N-near,cap128,completion38,False,vase,cow,other,,single,decorative item;container;box,__box;__container;__decorative,third_human_adjudication,other,False,False,False,False,False,False,False
+646cff83742aeae0,pixtral12b,T0548__D08__N-near,T0548,D08,N-near,original,original416,False,train,cat,target,ambiguous,single,model train track,__train_track,two_rater_agreement,other,False,False,False,False,False,True,True
+5b672bae1dd235f3,idefics3,T0612__D13__N-near,T0612,D13,N-near,original,original416,True,cell phone,sandwich,target,target,single,phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+4a17b1526fd19603,idefics3,T0593__D08__T,T0593,D08,T,original,original416,True,chair,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+b209f1c104ba654c,internvl35,T0777__O,T0777,,O,original,original416,True,oven,,other,other,single,gas stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+dfb3e32718f546ad,idefics3,T0629__D07__N-near,T0629,D07,N-near,original,original416,True,suitcase,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+e73b334089ad7059,llava15,T0358__D14__T,T0358,D14,T,original,original416,True,dining table,sandwich,other,other,single,fish,__fish,two_rater_agreement,other,False,False,False,False,False,True,True
+188294b9255d9302,qwen,T0612__D13__N-near,T0612,D13,N-near,original,original416,True,cell phone,sandwich,target,target,single,cell phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+0a368ae539ff5411,pixtral12b,T0536__G,T0536,,G,original,original416,True,horse,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+57ebedf2dfe943b3,llava15,T0685__D05__T,T0685,D05,T,original,original416,True,horse,cake,donor,donor,single,cake,cake,two_rater_agreement,donor,False,True,False,False,True,True,True
+71c5d2773f47ea00,internvl35,T0612__G,T0612,,G,original,original416,True,cell phone,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+5cf8beadc20a54c7,qwen9b,T0358__G,T0358,,G,original,original416,True,dining table,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+72cb3ebbd5efbe6f,pixtral12b,T0664__D14__N-near,T0664,D14,N-near,original,original416,False,giraffe,sandwich,other,target,single,giraffes,giraffe,two_rater_agreement,target,True,False,False,True,False,True,True
+d89861232f74d5a7,idefics3,T0777__D07__T,T0777,D07,T,original,original416,True,oven,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+30b279845fcdf356,llava15,T0629__G,T0629,,G,original,original416,True,suitcase,,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+f79dcf75f655cee6,pixtral12b,T0358__D14__T,T0358,D14,T,original,original416,True,dining table,sandwich,target,other,single,cake,cake,two_rater_agreement,other,False,False,False,False,False,True,True
+bc81192a2c65c304,pixtral12b,T0536__D04__N-near,T0536,D04,N-near,original,original416,True,horse,bicycle,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+20d16f83458bb0a0,pixtral12b,T0686__D10__T,T0686,D10,T,original,original416,False,toaster,cow,donor,donor,single,cow,cow,two_rater_agreement,donor,False,True,False,False,True,True,True
+9d871b2465bf702e,qwen,T0612__D13__T,T0612,D13,T,original,original416,True,cell phone,sandwich,target,target,single,cell phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+fe94a06ee8e7104c,pixtral12b,T0612__D08__N-near,T0612,D08,N-near,original,original416,True,cell phone,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+b6222a21eb8db27d,qwen9b,T0593__O,T0593,,O,original,original416,True,chair,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+e27e48e6f539f122,qwen9b,T0734__D15__T,T0734,D15,T,original,original416,True,bus,umbrella,donor,donor,single,umbrella,umbrella,two_rater_agreement,donor,False,True,False,False,True,True,True
+2fd2f6f4db39122a,llava15,T0593__D08__T,T0593,D08,T,original,original416,True,chair,cat,other,other,single,laptop,laptop,two_rater_agreement,other,False,False,False,False,False,True,True
+4bd2178ed2d6ebf6,qwen9b,T0685__D05__T,T0685,D05,T,original,original416,True,horse,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+e13ee74e4f808cd0,qwen,T0777__D07__N-near,T0777,D07,N-near,original,original416,True,oven,cat,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+d0d2d2d99367fcc9,qwen9b,T0385__D15__N-near,T0385,D15,N-near,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+870409196de99e28,qwen,T0593__D05__T,T0593,D05,T,original,original416,True,chair,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+3005a115623092e8,internvl35,T0358__G,T0358,,G,original,original416,True,dining table,,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+65de368f91700b75,qwen9b,T0536__O,T0536,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+62bc216831a2545b,qwen9b,T0734__D07__T,T0734,D07,T,original,original416,True,bus,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+be682a0c7513198e,idefics3,T0629__O,T0629,,O,original,original416,True,suitcase,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+fa324ac25c427a42,llava15,T0734__D15__T,T0734,D15,T,original,original416,True,bus,umbrella,other,other,single,man,person,two_rater_agreement,other,False,False,False,False,False,True,True
+f1634326f4054402,pixtral12b,T0761__D04__N-near,T0761,D04,N-near,original,original416,False,banana,bicycle,other,other,single,bowl,bowl,two_rater_agreement,other,False,False,False,False,False,True,True
+3572a91f23f09ec2,qwen,T0385__D14__N-near,T0385,D14,N-near,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+cb435dbc3f27776b,qwen9b,T0593__D08__N-near,T0593,D08,N-near,original,original416,True,chair,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+5da50d9390881f2d,qwen,T0685__D05__N-near,T0685,D05,N-near,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+11f4e8063c722658,llava15,T0385__G,T0385,,G,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+b076aa0a7fce96a2,qwen9b,T0593__D05__N-near,T0593,D05,N-near,original,original416,True,chair,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+5af2e0636930bb96,internvl35,T0599__O,T0599,,O,original,original416,True,tv,,other,other,single,dog,dog,two_rater_agreement,other,False,False,False,False,False,True,True
+b188a7cfbf620782,qwen9b,T0599__O,T0599,,O,original,original416,True,tv,,other,other,single,lion,__lion,two_rater_agreement,other,False,False,False,False,False,True,True
+6bcf05c3755ab9f3,pixtral12b,T0536__O,T0536,,O,original,original416,True,horse,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+441e055302e0b328,qwen,T0612__G,T0612,,G,original,original416,True,cell phone,,target,target,single,cell phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+b2e84a2cc1691366,pixtral12b,T0629__D06__T,T0629,D06,T,original,original416,True,suitcase,cake,donor,ambiguous,multiple,cake;pastry,__pastry;cake,two_rater_agreement,ambiguous,False,False,False,False,True,True,True
+94efbe208cf56302,pixtral12b,T0754__D08__T,T0754,D08,T,cap128,completion38,False,suitcase,cat,other,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+036210a02185d8b2,llava15,T0734__D15__N-near,T0734,D15,N-near,original,original416,True,bus,umbrella,other,other,single,man,person,two_rater_agreement,other,False,False,False,False,False,True,True
+b25344e882fbc88b,idefics3,T0536__D04__T,T0536,D04,T,original,original416,True,horse,bicycle,donor,donor,single,bicycle,bicycle,two_rater_agreement,donor,False,True,False,False,True,True,True
+9f2fc78654cb6f47,pixtral12b,T0599__G,T0599,,G,original,original416,True,tv,,target,target,single,television screen,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+8583c6a44cf156e7,internvl35,T0612__D08__N-near,T0612,D08,N-near,original,original416,True,cell phone,cat,other,other,single,iphone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+77eaddf761818ec0,qwen9b,T0777__D07__N-near,T0777,D07,N-near,original,original416,True,oven,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+4aaabb1c7e3c0902,pixtral12b,T0569__D13__T,T0569,D13,T,cap128,completion38,False,cup,sandwich,donor,,multiple,sandwich;wrap,__wrap;sandwich,two_rater_agreement,ambiguous,False,False,False,False,True,True,True
+4441626c0c694fef,qwen,T0612__D08__N-near,T0612,D08,N-near,original,original416,True,cell phone,cat,target,target,single,cell phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+7b34b5e4330bb1dd,idefics3,T0685__D05__N-near,T0685,D05,N-near,original,original416,True,horse,cake,other,other,single,chicken,__chicken,two_rater_agreement,other,False,False,False,False,False,True,True
+d54f83ff6e5622cc,internvl35,T0734__D15__T,T0734,D15,T,original,original416,True,bus,umbrella,donor,donor,single,umbrella,umbrella,two_rater_agreement,donor,False,True,False,False,True,True,True
+5fa6e962542922d4,pixtral12b,T0599__D15__T,T0599,D15,T,original,original416,True,tv,umbrella,ambiguous,target,single,television screen,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+a35bcc323c391dbc,internvl35,T0777__G,T0777,,G,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+16d78783f94ea15e,pixtral12b,T0685__D05__T,T0685,D05,T,original,original416,True,horse,cake,other,other,single,machine;device;cotton candy maker,__broad_machine;__device;__machine,third_human_adjudication,other,False,False,False,False,False,True,False
+76b35b7ace986aaf,pixtral12b,T0571__D08__N-near,T0571,D08,N-near,cap128,completion38,False,horse,cat,other,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+23f762cfe53003f0,idefics3,T0593__G,T0593,,G,original,original416,True,chair,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+84dacb4b36b04a5f,internvl35,T0685__G,T0685,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+ff90df0708d0a063,idefics3,T0629__D06__T,T0629,D06,T,original,original416,True,suitcase,cake,other,other,single,cupcake,__cupcake,two_rater_agreement,other,False,False,False,False,False,True,True
+2a1e107611771656,idefics3,T0612__D13__T,T0612,D13,T,original,original416,True,cell phone,sandwich,target,target,single,phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+1c82f7f4f429c14e,qwen,T0599__G,T0599,,G,original,original416,True,tv,,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+7acc40da028723c4,qwen,T0593__D08__N-near,T0593,D08,N-near,original,original416,True,chair,cat,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+d6d51672549e5a9a,pixtral12b,T0496__D14__T,T0496,D14,T,original,completion38,False,dining table,sandwich,donor,ambiguous,unresolved,,,third_human_adjudication,unresolved,False,False,False,,,False,False
+070721c6de0e0464,llava15,T0612__D13__T,T0612,D13,T,original,original416,True,cell phone,sandwich,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+d7ff7373e56e0435,qwen,T0685__O,T0685,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+28aaf321cc881f52,qwen9b,T0685__D11__T,T0685,D11,T,original,original416,True,horse,dog,donor,donor,single,dog,dog,two_rater_agreement,donor,False,True,False,False,True,True,True
+fd18b01164d7fe01,qwen,T0685__G,T0685,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+2a4ee93bedafe28f,idefics3,T0385__D15__T,T0385,D15,T,original,original416,True,fire hydrant,umbrella,donor,donor,single,umbrella,umbrella,two_rater_agreement,donor,False,True,False,False,True,True,True
+bb8e8d70cc663e7b,pixtral12b,T0496__D14__T,T0496,D14,T,cap128,completion38,False,dining table,sandwich,unknown,,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+57f1d64353f10a49,pixtral12b,T0710__D13__T,T0710,D13,T,cap128,completion38,False,truck,sandwich,donor,,single,sandwich,sandwich,two_rater_agreement,donor,False,True,False,False,True,True,True
+11dfc6921d0682e2,idefics3,T0385__D15__N-near,T0385,D15,N-near,original,original416,True,fire hydrant,umbrella,donor,donor,single,umbrella,umbrella,two_rater_agreement,donor,False,True,False,False,True,True,True
+15e803bbeb1e1022,pixtral12b,T0777__O,T0777,,O,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+2c6cb4891b00a955,llava15,T0599__D02__N-near,T0599,D02,N-near,original,original416,True,tv,backpack,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+3738a2a527f45d68,idefics3,T0629__D06__N-near,T0629,D06,N-near,original,original416,True,suitcase,cake,other,other,single,chocolate,__chocolate,two_rater_agreement,other,False,False,False,False,False,True,True
+0699266fdcf8c0ab,pixtral12b,T0734__D07__T,T0734,D07,T,original,original416,True,bus,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+c2d695a7b2c953bb,idefics3,T0612__D08__T,T0612,D08,T,original,original416,True,cell phone,cat,target,target,single,phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+958f1e1c6ab7ed7a,internvl35,T0734__O,T0734,,O,original,original416,True,bus,,target,target,single,bus,bus,two_rater_agreement,target,True,False,False,True,False,True,True
+53e16d14f17c00b7,llava15,T0612__D13__N-near,T0612,D13,N-near,original,original416,True,cell phone,sandwich,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+77bb569583584763,pixtral12b,T0358__D02__T,T0358,D02,T,original,original416,True,dining table,backpack,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+4601e6323d271ad1,idefics3,T0777__O,T0777,,O,original,original416,True,oven,,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+239feab3882d1ef0,qwen,T0734__O,T0734,,O,original,original416,True,bus,,target,target,single,bus,bus,two_rater_agreement,target,True,False,False,True,False,True,True
+a2faf082a9fcd4af,internvl35,T0358__O,T0358,,O,original,original416,True,dining table,,target,target,single,dinner table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+723a7a4b74a810e6,llava15,T0612__D08__N-near,T0612,D08,N-near,original,original416,True,cell phone,cat,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+65fa52c151aaa2c5,pixtral12b,T0734__O,T0734,,O,original,original416,True,bus,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+155950537e2315f4,idefics3,T0599__D02__N-near,T0599,D02,N-near,original,original416,True,tv,backpack,target,target,single,tv,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+667c77da069a1c49,pixtral12b,T0788__D10__N-near,T0788,D10,N-near,original,original416,False,clock,cow,other,ambiguous,single,wall,__wall,two_rater_agreement,other,False,False,False,False,False,True,True
+2ab4738d09b93aab,pixtral12b,T0748__D05__N-near,T0748,D05,N-near,original,original416,False,truck,cake,target,ambiguous,multiple,trailer;truck,__trailer;truck,two_rater_agreement,ambiguous,False,False,False,True,False,True,True
+74c7c274c85ab7fb,idefics3,T0599__G,T0599,,G,original,original416,True,tv,,target,target,single,tv,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+68e74572c7eaacfd,pixtral12b,T0356__D03__T,T0356,D03,T,original,original416,False,tv,bicycle,ambiguous,target,single,television screen,tv,third_human_adjudication,target,True,False,False,True,False,True,False
+db57ceedf6a36ef3,llava15,T0593__D08__N-near,T0593,D08,N-near,original,original416,True,chair,cat,other,other,single,woman,person,two_rater_agreement,other,False,False,False,False,False,True,True
+be9d67376abf69bc,internvl35,T0685__D11__N-near,T0685,D11,N-near,original,original416,True,horse,dog,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+d0cc15c729df894c,idefics3,T0685__D11__T,T0685,D11,T,original,original416,True,horse,dog,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+2fef838c6ab41b30,qwen,T0385__D15__N-near,T0385,D15,N-near,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+ea54263b29ca6583,qwen,T0536__D04__N-near,T0536,D04,N-near,original,original416,True,horse,bicycle,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+f84b898b50c1465d,qwen9b,T0593__D05__T,T0593,D05,T,original,original416,True,chair,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+704bd9e8457754dd,qwen9b,T0385__O,T0385,,O,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+523dd8c3b8b90e42,pixtral12b,T0704__D09__T,T0704,D09,T,original,original416,False,vase,cow,donor,ambiguous,single,picture frame,__picture_frame,two_rater_agreement,other,False,False,False,False,False,True,True
+6faee0221d1f95a2,internvl35,T0777__D07__N-near,T0777,D07,N-near,original,original416,True,oven,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+70e6726cba903634,llava15,T0685__D11__N-near,T0685,D11,N-near,original,original416,True,horse,dog,donor,donor,single,dog,dog,two_rater_agreement,donor,False,True,False,False,True,True,True
+99d7c68f72b9279d,qwen9b,T0536__D06__N-near,T0536,D06,N-near,original,original416,True,horse,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+e50efdb87d064cbe,llava15,T0685__O,T0685,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+c59939b60a6caead,idefics3,T0593__O,T0593,,O,original,original416,True,chair,,other,other,single,glasses,__glasses,two_rater_agreement,other,False,False,False,False,False,True,True
+2a6e4ef01f3013db,pixtral12b,T0385__G,T0385,,G,original,original416,True,fire hydrant,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+ef9469375e9baf1c,pixtral12b,T0476__D11__N-near,T0476,D11,N-near,original,original416,False,airplane,dog,target,ambiguous,single,airplane,airplane,two_rater_agreement,target,True,False,False,True,False,True,True
+154388daafe2dd2f,pixtral12b,T0788__D10__N-near,T0788,D10,N-near,cap128,completion38,False,clock,cow,other,,single,wall,__wall,two_rater_agreement,other,False,False,False,False,False,True,True
+d8f06bf7d8cd1020,qwen9b,T0777__D13__N-near,T0777,D13,N-near,original,original416,True,oven,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+2c6f673d7657f239,qwen9b,T0612__O,T0612,,O,original,original416,True,cell phone,,target,target,single,smartphone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+9267a5bcc36bcbbd,qwen9b,T0612__D08__N-near,T0612,D08,N-near,original,original416,True,cell phone,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+c42973a2985cedb2,llava15,T0629__D07__N-near,T0629,D07,N-near,original,original416,True,suitcase,cat,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+4553c918ec2b37e4,internvl35,T0385__D15__T,T0385,D15,T,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+3cbc5ce14b85b0ce,idefics3,T0612__G,T0612,,G,original,original416,True,cell phone,,target,target,single,phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+d402af7a6163845c,pixtral12b,T0629__D07__T,T0629,D07,T,original,original416,True,suitcase,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+56b20b2ba4bc8ee4,llava15,T0734__D07__T,T0734,D07,T,original,original416,True,bus,cat,other,other,single,man,person,two_rater_agreement,other,False,False,False,False,False,True,True
+56e0aa040bf493bf,llava15,T0536__O,T0536,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+1a534c3c414005e7,pixtral12b,T0664__D14__T,T0664,D14,T,original,original416,False,giraffe,sandwich,other,other,single,bear,bear,two_rater_agreement,other,False,False,False,False,False,True,True
+db3d5b1e8344bffe,qwen,T0599__D15__T,T0599,D15,T,original,original416,True,tv,umbrella,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+50c11ab5b4f20176,pixtral12b,T0603__D09__T,T0603,D09,T,original,original416,False,suitcase,cow,other,other,multiple,toy;street art,__art;__toy,two_rater_agreement,ambiguous,False,False,False,False,False,True,True
+d3cb7749986d657d,qwen,T0593__D05__N-near,T0593,D05,N-near,original,original416,True,chair,cake,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+eb8cce4386b3f2cd,qwen,T0685__D05__T,T0685,D05,T,original,original416,True,horse,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+b1a36ab0fb819eb8,qwen,T0385__G,T0385,,G,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+dbfbbca974108cd7,qwen,T0358__D02__T,T0358,D02,T,original,original416,True,dining table,backpack,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+7a7e8afe835dbd40,pixtral12b,T0358__D14__T,T0358,D14,T,cap128,completion38,False,dining table,sandwich,target,,multiple,cake;dessert,__dessert;cake,third_human_adjudication,ambiguous,False,False,False,False,False,False,False
+c47b77b2e828e3c7,qwen9b,T0685__G,T0685,,G,original,original416,True,horse,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+c6d85ad776dfc1de,pixtral12b,T0364__D11__T,T0364,D11,T,original,original416,False,boat,dog,other,other,single,cow,cow,two_rater_agreement,other,False,False,False,False,False,True,True
+0983442c8235ab12,llava15,T0685__D11__T,T0685,D11,T,original,original416,True,horse,dog,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+fe7de7b2d1d17bfd,qwen9b,T0385__D15__T,T0385,D15,T,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+301e7f4783dbba7f,pixtral12b,T0677__D16__T,T0677,D16,T,original,original416,False,tennis racket,umbrella,target,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+71b7fe99bc50cf8c,llava15,T0777__D13__N-near,T0777,D13,N-near,original,original416,True,oven,sandwich,donor,donor,single,sandwich,sandwich,two_rater_agreement,donor,False,True,False,False,True,True,True
+519a1ca6991ea104,qwen9b,T0777__D07__T,T0777,D07,T,original,original416,True,oven,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+2596a1caedfc5ded,qwen9b,T0599__D15__N-near,T0599,D15,N-near,original,original416,True,tv,umbrella,target,target,single,tv,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+68f5216e247784b2,qwen9b,T0536__G,T0536,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+d544cd753172a145,qwen,T0629__D06__T,T0629,D06,T,original,original416,True,suitcase,cake,target,target,single,suitcase,suitcase,two_rater_agreement,target,True,False,False,True,False,True,True
+ce331c1cf55bc3d4,internvl35,T0536__D06__T,T0536,D06,T,original,original416,True,horse,cake,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+0abf8053b8f29c95,pixtral12b,T0382__D07__T,T0382,D07,T,cap128,completion38,False,dining table,cat,target,,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+3bd901ac94397a33,pixtral12b,T0546__D09__N-near,T0546,D09,N-near,original,original416,False,surfboard,cow,target,ambiguous,single,surfboard,surfboard,two_rater_agreement,target,True,False,False,True,False,True,True
+15445fd04dce33c1,internvl35,T0385__D15__N-near,T0385,D15,N-near,original,original416,True,fire hydrant,umbrella,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+abf668d96a418c98,pixtral12b,T0704__D09__N-near,T0704,D09,N-near,original,original416,False,vase,cow,other,other,multiple,container;furniture,__broad_furniture;__container,two_rater_agreement,ambiguous,False,False,False,False,False,True,True
+9642333f867f9d7c,qwen,T0536__D04__T,T0536,D04,T,original,original416,True,horse,bicycle,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+2efaadc8f49e13db,internvl35,T0777__D13__N-near,T0777,D13,N-near,original,original416,True,oven,sandwich,donor,donor,single,sandwich,sandwich,two_rater_agreement,donor,False,True,False,False,True,True,True
+1af6601bf36f5a17,qwen,T0777__D07__T,T0777,D07,T,original,original416,True,oven,cat,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+88b8d4f9c11a515f,idefics3,T0612__D08__N-near,T0612,D08,N-near,original,original416,True,cell phone,cat,target,target,single,phone,cell phone,two_rater_agreement,target,True,False,False,True,False,True,True
+00fad499d5a7e598,llava15,T0685__D05__N-near,T0685,D05,N-near,original,original416,True,horse,cake,other,other,single,bunny,__rabbit,two_rater_agreement,other,False,False,False,False,False,True,True
+f6e6070bdcc64198,internvl35,T0629__G,T0629,,G,original,original416,True,suitcase,,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+b1a07a10c415d340,pixtral12b,T0734__D15__N-near,T0734,D15,N-near,original,original416,True,bus,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+bf0d50ef86bd1ea8,pixtral12b,T0329__D12__N-near,T0329,D12,N-near,original,original416,False,motorcycle,dog,target,ambiguous,single,motorcycle,motorcycle,two_rater_agreement,target,True,False,False,True,False,True,True
+01029486f2c3a271,idefics3,T0358__O,T0358,,O,original,original416,True,dining table,,other,other,single,bottle,bottle,two_rater_agreement,other,False,False,False,False,False,True,True
+c9d55747b4d5574d,pixtral12b,T0536__D06__N-near,T0536,D06,N-near,original,original416,True,horse,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+36422487c3874191,llava15,T0536__D04__T,T0536,D04,T,original,original416,True,horse,bicycle,donor,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+a69aaeb8d6efe8a6,llava15,T0385__D14__T,T0385,D14,T,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+6132c6d18aed1bde,pixtral12b,T0382__D07__T,T0382,D07,T,original,completion38,False,dining table,cat,other,ambiguous,single,framed picture;photograph,__picture,third_human_adjudication,other,False,False,False,False,False,False,False
+4c07a79ba55563c9,pixtral12b,T0394__D02__N-near,T0394,D02,N-near,original,original416,False,oven,backpack,other,other,single,kitchen countertop,__countertop,two_rater_agreement,other,False,False,False,False,False,True,True
+6c6bb6cead9edd41,qwen,T0358__D14__N-near,T0358,D14,N-near,original,original416,True,dining table,sandwich,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+ed2c3fe8a2ee0007,qwen9b,T0612__D13__T,T0612,D13,T,original,original416,True,cell phone,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+336f9531f6c9ce44,pixtral12b,T0629__D07__N-near,T0629,D07,N-near,original,original416,True,suitcase,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+909157b434ad0342,internvl35,T0385__O,T0385,,O,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+46ef2cc4c52c6c8a,qwen,T0734__D07__N-near,T0734,D07,N-near,original,original416,True,bus,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+95707d6edd721d28,internvl35,T0385__D14__T,T0385,D14,T,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+5b1a8e5a4e8b0def,llava15,T0358__O,T0358,,O,original,original416,True,dining table,,other,other,single,bottle,bottle,two_rater_agreement,other,False,False,False,False,False,True,True
+1b2f0df947ee98b2,pixtral12b,T0394__D02__T,T0394,D02,T,original,original416,False,oven,backpack,other,other,single,cutting board,__cutting_board,two_rater_agreement,other,False,False,False,False,False,True,True
+858043a384a86d89,internvl35,T0599__G,T0599,,G,original,original416,True,tv,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+8dab2c417208ed08,pixtral12b,T0476__D11__T,T0476,D11,T,original,original416,False,airplane,dog,target,ambiguous,single,airplane,airplane,two_rater_agreement,target,True,False,False,True,False,True,True
+3ebbc403b6740167,internvl35,T0685__D11__T,T0685,D11,T,original,original416,True,horse,dog,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+f656111b3658e132,qwen9b,T0685__D05__N-near,T0685,D05,N-near,original,original416,True,horse,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+349d852402ba93eb,pixtral12b,T0748__D05__T,T0748,D05,T,cap128,completion38,False,truck,cake,target,,single,trailer truck,truck,two_rater_agreement,target,True,False,False,True,False,True,True
+90506f7a8eaf0f15,pixtral12b,T0734__D07__N-near,T0734,D07,N-near,original,original416,True,bus,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+fb607d0a0b147c56,idefics3,T0685__D11__N-near,T0685,D11,N-near,original,original416,True,horse,dog,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+e8ee435c80710732,pixtral12b,T0593__D05__T,T0593,D05,T,original,original416,True,chair,cake,other,other,single,plush toy;stuffed animal,__toy,third_human_adjudication,other,False,False,False,False,False,False,False
+85c513bd7a2bf043,internvl35,T0536__G,T0536,,G,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+2aa6fefd08bbb9d8,pixtral12b,T0423__D04__N-near,T0423,D04,N-near,cap128,completion38,False,surfboard,bicycle,target,,multiple,leg;surfboard part,__person_part;__surfboard_part,third_human_adjudication,ambiguous,False,False,False,False,False,False,False
+08b4784bf1714233,pixtral12b,T0536__D04__T,T0536,D04,T,original,original416,True,horse,bicycle,donor,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+81f5c2e93274687e,idefics3,T0385__O,T0385,,O,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+e6a97db84456f7bf,llava15,T0536__D06__T,T0536,D06,T,original,original416,True,horse,cake,donor,donor,single,cake,cake,two_rater_agreement,donor,False,True,False,False,True,True,True
+77f31abdab55b8f9,pixtral12b,T0777__D07__T,T0777,D07,T,original,original416,True,oven,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+90a8c126b120374e,idefics3,T0358__G,T0358,,G,original,original416,True,dining table,,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+2d3c0825bbefc38e,pixtral12b,T0423__D04__N-near,T0423,D04,N-near,original,completion38,False,surfboard,bicycle,other,ambiguous,single,leg,__person_part,third_human_adjudication,other,False,False,False,False,False,True,False
+d7b0112635c6eea4,llava15,T0629__D06__T,T0629,D06,T,original,original416,True,suitcase,cake,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+f49a9ea888ef15d9,qwen,T0734__G,T0734,,G,original,original416,True,bus,,target,target,single,bus,bus,two_rater_agreement,target,True,False,False,True,False,True,True
+3cec3257c80d6e29,qwen9b,T0536__D06__T,T0536,D06,T,original,original416,True,horse,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+f32424dc99016e25,pixtral12b,T0612__G,T0612,,G,original,original416,True,cell phone,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+671dfae200339ac9,qwen,T0599__O,T0599,,O,original,original416,True,tv,,target,target,single,television,tv,two_rater_agreement,target,True,False,False,True,False,True,True
+e86941986875599e,qwen9b,T0593__G,T0593,,G,original,original416,True,chair,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+8f56ecc9ccfc7721,pixtral12b,T0777__D13__N-near,T0777,D13,N-near,original,original416,True,oven,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+4ff8f3adc548a657,idefics3,T0358__D02__N-near,T0358,D02,N-near,original,original416,True,dining table,backpack,other,other,single,plate,__plate,two_rater_agreement,other,False,False,False,False,False,True,True
+f9e15a3c8a1044d4,pixtral12b,T0544__D05__N-near,T0544,D05,N-near,original,original416,False,airplane,cake,target,ambiguous,single,airplane,airplane,two_rater_agreement,target,True,False,False,True,False,True,True
+f17ea24610dce5ba,pixtral12b,T0629__O,T0629,,O,original,original416,True,suitcase,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+168899442ea70815,pixtral12b,T0612__D13__N-near,T0612,D13,N-near,original,original416,True,cell phone,sandwich,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+76b4298d597ab245,internvl35,T0385__D14__N-near,T0385,D14,N-near,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+afed3d980f903d43,idefics3,T0599__D15__T,T0599,D15,T,original,original416,True,tv,umbrella,donor,donor,single,umbrella,umbrella,two_rater_agreement,donor,False,True,False,False,True,True,True
+298bdd7f4163f921,pixtral12b,T0685__G,T0685,,G,original,original416,True,horse,,other,ambiguous,single,tractor,__tractor,two_rater_agreement,other,False,False,False,False,False,True,True
+b4059a22dfa687bb,llava15,T0599__D02__T,T0599,D02,T,original,original416,True,tv,backpack,donor,donor,single,backpack,backpack,two_rater_agreement,donor,False,True,False,False,True,True,True
+085ebdfc19ae7a95,qwen9b,T0536__D04__T,T0536,D04,T,original,original416,True,horse,bicycle,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+c47a5803197eef7e,llava15,T0358__D02__T,T0358,D02,T,original,original416,True,dining table,backpack,other,other,single,chair,chair,two_rater_agreement,other,False,False,False,False,False,True,True
+f3de239408b59643,llava15,T0777__D07__T,T0777,D07,T,original,original416,True,oven,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+aef30c2e76dd821a,internvl35,T0777__D13__T,T0777,D13,T,original,original416,True,oven,sandwich,donor,donor,single,sandwich,sandwich,two_rater_agreement,donor,False,True,False,False,True,True,True
+8b65f64779ded7e9,llava15,T0536__D04__N-near,T0536,D04,N-near,original,original416,True,horse,bicycle,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+a839d355f9e0ff98,internvl35,T0599__D15__T,T0599,D15,T,original,original416,True,tv,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+9f2ba32c5a2fd87a,idefics3,T0385__D14__N-near,T0385,D14,N-near,original,original416,True,fire hydrant,sandwich,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+291887a68c89ad31,qwen9b,T0734__O,T0734,,O,original,original416,True,bus,,target,target,single,bus,bus,two_rater_agreement,target,True,False,False,True,False,True,True
+2964032aad064a98,idefics3,T0536__O,T0536,,O,original,original416,True,horse,,target,target,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+953a88a377f2f091,qwen,T0629__D06__N-near,T0629,D06,N-near,original,original416,True,suitcase,cake,target,target,single,suitcase,suitcase,two_rater_agreement,target,True,False,False,True,False,True,True
+29a5bb678ee507b7,pixtral12b,T0723__D13__N-near,T0723,D13,N-near,cap128,completion38,False,horse,sandwich,target,,single,horse,horse,two_rater_agreement,target,True,False,False,True,False,True,True
+24daf823da7ced2e,llava15,T0629__D06__N-near,T0629,D06,N-near,original,original416,True,suitcase,cake,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+f20020a08266947f,pixtral12b,T0548__D08__N-near,T0548,D08,N-near,cap128,completion38,False,train,cat,target,,multiple,model train track;landscape,__landscape;__train_track,third_human_adjudication,ambiguous,False,False,False,False,False,True,False
+27ca75330ad1671d,pixtral12b,T0685__D05__N-near,T0685,D05,N-near,original,original416,True,horse,cake,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+5fb6b696aa3015da,pixtral12b,T0402__D09__N-near,T0402,D09,N-near,original,original416,False,handbag,cow,other,ambiguous,multiple,sink;countertop,__countertop;sink,two_rater_agreement,ambiguous,False,False,False,False,False,True,True
+146a6c7da76218b3,idefics3,T0385__G,T0385,,G,original,original416,True,fire hydrant,,target,target,single,fire hydrant,fire hydrant,two_rater_agreement,target,True,False,False,True,False,True,True
+86fdde952af20a2c,internvl35,T0629__D07__T,T0629,D07,T,original,original416,True,suitcase,cat,donor,donor,single,cat,cat,two_rater_agreement,donor,False,True,False,False,True,True,True
+f758d8f1eaa08414,qwen,T0629__G,T0629,,G,original,original416,True,suitcase,,target,target,single,suitcase,suitcase,two_rater_agreement,target,True,False,False,True,False,True,True
+c80b5416d0dcd7c7,qwen,T0358__G,T0358,,G,original,original416,True,dining table,,target,target,single,table,dining table,two_rater_agreement,target,True,False,False,True,False,True,True
+37e67b3e5a821074,pixtral12b,T0734__D15__T,T0734,D15,T,original,original416,True,bus,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+cf982f5287166136,internvl35,T0593__D05__N-near,T0593,D05,N-near,original,original416,True,chair,cake,target,target,single,chair,chair,two_rater_agreement,target,True,False,False,True,False,True,True
+77dbf0ea13d2afe3,idefics3,T0358__D14__T,T0358,D14,T,original,original416,True,dining table,sandwich,other,other,single,turkey,__turkey,two_rater_agreement,other,False,False,False,False,False,True,True
+ec60a3431c29243e,qwen9b,T0734__G,T0734,,G,original,original416,True,bus,,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+d265dac444d5207e,qwen,T0777__D13__T,T0777,D13,T,original,original416,True,oven,sandwich,other,other,single,stove,__stove,two_rater_agreement,other,False,False,False,False,False,True,True
+807fa928bf2009bf,idefics3,T0734__D07__N-near,T0734,D07,N-near,original,original416,True,bus,cat,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+0283aa122ea1b936,qwen9b,T0358__D02__T,T0358,D02,T,original,original416,True,dining table,backpack,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+30bbf42a42e0779a,idefics3,T0685__D05__T,T0685,D05,T,original,original416,True,horse,cake,other,other,single,chicken,__chicken,two_rater_agreement,other,False,False,False,False,False,True,True
+9d34457da3a96be5,pixtral12b,T0367__D15__N-near,T0367,D15,N-near,original,completion38,False,motorcycle,umbrella,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
+ac47a43ea40d08ac,pixtral12b,T0677__D16__N-near,T0677,D16,N-near,original,original416,False,tennis racket,umbrella,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+d2cccd5e78bf6c3e,pixtral12b,T0536__D06__T,T0536,D06,T,original,original416,True,horse,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+fb7a844302b6de91,pixtral12b,T0629__D06__N-near,T0629,D06,N-near,original,original416,True,suitcase,cake,unknown,unknown,abstain,,,two_rater_agreement,unknown,False,False,True,False,False,True,True
+477a6289711c6016,internvl35,T0629__D06__N-near,T0629,D06,N-near,original,original416,True,suitcase,cake,other,other,single,luggage,__broad_luggage,two_rater_agreement,other,False,False,False,False,False,True,True
+2b15e35492c3aa8c,internvl35,T0734__D07__N-near,T0734,D07,N-near,original,original416,True,bus,cat,other,other,single,person,person,two_rater_agreement,other,False,False,False,False,False,True,True
