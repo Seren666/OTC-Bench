@@ -1,0 +1,17 @@
+﻿metric,votes,n_source_images
+strict_target,0,11
+strict_target,1,6
+strict_target,2,18
+strict_target,3,37
+loose_target,0,5
+loose_target,1,6
+loose_target,2,11
+loose_target,3,50
+suff_enough,0,2
+suff_enough,1,2
+suff_enough,2,15
+suff_enough,3,53
+explicit_unknown,0,64
+explicit_unknown,1,6
+explicit_unknown,2,1
+explicit_unknown,3,1

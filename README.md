@@ -1,3 +1,28 @@
+# OTC-Bench: Can VLMs Stay on Target?
+
+**Current experiment version: 0.3.0-rc1 (2026-11-26).**
+
+Paired spatial exchanges evaluate marked-target answering while preserving target occlusion, remaining visible target pixels and donor content. The current manuscript covers ten checkpoints and five closely worded prompts, with 500 main targets and 104 spatial targets at three sizes/four positions.
+
+- [Current results and model comparisons](current/RESULTS.md)
+- [Replay the current experiments](current/README.md)
+- [Complete prompts and components](current/prompts.json)
+- [Manuscript table/figure map](current/MANUSCRIPT_MAP.md)
+- [Version/count metadata](current/release.json)
+
+```bash
+python -m pip install -r requirements-paper.txt
+python current_replay.py --output replayed_current
+```
+
+Means and sample standard deviations use P1–P5; the separately archived original prompt is excluded. W/A scoring and 32-token/length-replaced sensitivity results are retained separately. The unpublished manuscript itself is not distributed here.
+
+---
+
+## Historical release documentation (v0.2.0-rc1)
+
+The following six-model results, intervals, images and commands describe the preserved historical release. For the current manuscript, use the links and command above.
+
 ---
 language:
 - en

@@ -1,3 +1,5 @@
+> **Version note:** this file documents the historical v0.2.0-rc1 evidence. Current ten-checkpoint/five-prompt results, scoring scope and table map are in [current/README.md](current/README.md).
+
 # Related-work boundary, checked 2026-09-30
 
 This is a bounded novelty check, not proof that no equivalent work exists. arXiv primary records were re-fetched for 11 papers. Full HTML was inspected for O-Bench, Idis, DistractMIA, RIO-VQA and AutoHallusion. OpenAlex discovery queries covered VLM occlusion, semantic distractors and identity substitution, but retrieval was noisy and cannot establish exhaustive coverage. Previous search notes are supporting history, not fresh verification of every claim.

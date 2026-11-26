@@ -1,3 +1,5 @@
+> **Version note:** this file documents the historical v0.2.0-rc1 evidence. Current ten-checkpoint/five-prompt results, scoring scope and table map are in [current/README.md](current/README.md).
+
 # Main result tables
 
 Counts refer to target-donor pairs. T = covering the target; N = same patch near it, with the target still gray-occluded.

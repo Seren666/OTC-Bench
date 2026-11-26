@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "request_files_checked": 8112,
+  "disk_exchange_pairs_checked": 2496,
+  "minimal_scene_checks": 7488,
+  "human_actual_PNG_hashes_verified": 72,
+  "human_RGB_RGBA_matches": 72,
+  "frozen_hashes_checked": false,
+  "all_O_G_T_position_matched": true,
+  "single_current_size_external_slot": true,
+  "no_maximum_gray_backing": true
+}

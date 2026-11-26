@@ -1,3 +1,11 @@
+# 0.3.0-rc1 — 2026-11-26
+
+- Add frozen 500-target six-arm comparator/P1–P5 records for ten checkpoints and all completion retries.
+- Add full 104-target three-size/four-position P1–P5 records, matched fixed-image repeats, and two-model format/focus components.
+- Add exact CPU replay, all W/A primary/length-replaced CSVs, subgroup checks, native preprocessing records, model-scale contrasts and versioned human-study aggregate.
+- Update repository entry points, paper-to-record mapping, all full prompts and 41-reference bibliography.
+- Keep v0.2.0-rc1 files and old tags unchanged; identify old six-model results as historical.
+
 # Changelog
 
 ## 0.2.0-rc1 — paper-aligned preview (2026-10-13)

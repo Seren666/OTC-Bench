@@ -1,3 +1,5 @@
+> **Version note:** this file documents the historical v0.2.0-rc1 evidence. Current ten-checkpoint/five-prompt results, scoring scope and table map are in [../current/README.md](../current/README.md).
+
 # Paper-aligned evidence (v0.2.0-rc1)
 
 Associated manuscript: **OTC-Bench: A Paired Spatial-Exchange Benchmark for Occluded Target Recognition**, in preparation for CVPR 2027 using the CVPR 2026 template. No acceptance, publication or DOI is implied. This public package contains numerical evidence and replay code; the unpublished manuscript and photographic figure examples are separate author files.

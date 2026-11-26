@@ -1,0 +1,73 @@
+{
+  "version": "0.3.0-rc1",
+  "date": "2026-11-26",
+  "manuscript_title": "Can VLMs Stay on Target? Probing Recognition under Spatial Distraction",
+  "models": {
+    "qwen2b": "Qwen3.5-2B",
+    "qwen4b": "Qwen3.5-4B",
+    "qwen9b": "Qwen3.5-9B",
+    "qwen": "Qwen3.5-27B",
+    "internvl35": "InternVL3.5-8B",
+    "internvl14b": "InternVL3.5-14B",
+    "llava7b": "LLaVA-v1.5-7B",
+    "llava13b": "LLaVA-v1.5-13B",
+    "idefics3": "Idefics3-8B",
+    "pixtral12b": "Pixtral-12B"
+  },
+  "main_targets": 500,
+  "spatial_targets": 104,
+  "sizes": [
+    0.6,
+    0.8,
+    1.0
+  ],
+  "positions": [
+    "left_top",
+    "left_bottom",
+    "right_top",
+    "right_bottom"
+  ],
+  "prompt_wordings": 5,
+  "main_primary_including_comparator": 180000,
+  "main_primary_P1_P5": 150000,
+  "extension_primary": 435120,
+  "current_primary_P1_P5": 585120,
+  "all_archived_primary": 615120,
+  "main_length_retries": 9601,
+  "extension_length_retries": 18210,
+  "repeat_selected_images": 72,
+  "component_models": [
+    "idefics3",
+    "qwen9b"
+  ],
+  "archives": [
+    "current/archives/otc_prompt_main500_20261113_design.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_evidence.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_analysis_report.json.gz",
+    "current/archives/otc_prompt_main500_20261113_idefics3.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_qwen9b.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_internvl35.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_internvl14b.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_qwen2b.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_qwen4b.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_qwen.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_pixtral12b.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_llava7b.tar.gz",
+    "current/archives/otc_prompt_main500_20261113_llava13b.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_design.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_evidence.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_analysis_report.json.gz",
+    "current/archives/otc_prompt_extensions_20261113_idefics3.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_qwen9b.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_internvl35.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_internvl14b.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_qwen2b.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_qwen4b.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_qwen.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_pixtral12b.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_llava7b.tar.gz",
+    "current/archives/otc_prompt_extensions_20261113_llava13b.tar.gz"
+  ],
+  "preserved_history": "v0.2.0-rc1; old root CLI and six-model artifacts remain historical",
+  "source_paths": "Absolute server paths in frozen provenance describe original execution locations; CPU replay uses repository-relative records. No server login is required."
+}

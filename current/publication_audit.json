@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "files_scanned": 240,
+  "archive_members_scanned": 293,
+  "credential_or_personal_path_matches": [],
+  "python_syntax": "PASS",
+  "spatial_render_RGB_hashes_verified": 96,
+  "bibliography_entries": 41,
+  "manuscript_uploaded": false,
+  "participant_questionnaires_uploaded": false
+}

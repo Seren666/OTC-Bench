@@ -1,0 +1,71 @@
+{
+  "study_version": "otc_spatial_correction_20261025_v2",
+  "status": "INPUTS_FROZEN_BEFORE_CORRECTED_INFERENCE",
+  "targets": 104,
+  "pairs": 2496,
+  "requests_per_model": 8112,
+  "models": [
+    "qwen2b",
+    "qwen4b",
+    "qwen9b",
+    "qwen",
+    "internvl35",
+    "internvl14b",
+    "idefics3"
+  ],
+  "stimulus_seed": 20261025,
+  "inference_seed": 20260921,
+  "conditions": {
+    "O": 1248,
+    "G": 1248,
+    "T": 2496,
+    "N-near": 2496,
+    "donor-check": 624
+  },
+  "conditions_per_target_level": {
+    "O": 4,
+    "G": 4,
+    "T": 8,
+    "N-near": 8,
+    "donor-check": 2
+  },
+  "levels": [
+    0.6,
+    0.8,
+    1.0
+  ],
+  "positions": [
+    "left_top",
+    "left_bottom",
+    "right_top",
+    "right_bottom"
+  ],
+  "size_semantics": "linear width/height of original R, rounded; not segmentation coverage percentages",
+  "position_semantics": "one current-size P only, left/right 4px bbox gap, bbox top/bottom aligned; all O/G/T matched per P",
+  "rendering_contract": "original marked scene/sidebar; no inactive P graying; no maximum-size backing; same-size R/P exchange",
+  "cross_position_background": "moving the sole P exposes/covers original background; outside-R/P equality applies within matched T/N only",
+  "target_selection": "unchanged 104 feasible targets and two original donor assignments; no model outputs consulted",
+  "human_scope": "72 existing v2 selected stimuli cross-checked against actual reference PNG and RGB/RGBA pixels; no responses read",
+  "target_prompt": "Identify the original object inside the red marked region in the left image. The rectangular image patch, whether inside the red region or near it, is an artificial distractor and is not the object to identify. Give a short answer; if the original object cannot be determined, answer UNKNOWN.",
+  "donor_check_prompt": "What object is depicted in the image patch? Give a short answer; if it cannot be determined, answer UNKNOWN.",
+  "new_inference_required": true,
+  "reuse_old_geometry_responses": false,
+  "source_support_sha256": {
+    "renderer.py": "b44ecdaf0a3bd94baa9c29a0b390d16fc7ee8e2fc84730bf3a1f51d05f06af87",
+    "geometry_helper.py": "d27b074fbcdab6472b07967fb11f9fd60d4a7198d73cb2a6fa1a2955f74bf8d7",
+    "generate_corrected.py": "c1c1f3a978e80fdf9d687831e5339f0371f2dd3ad672b52e06efba9e75d180b8",
+    "input_targets.jsonl": "cbe011a90e5264d25a787cc4994c9133b111e425fa23608c7fc46c2dfe5db92a",
+    "input_donors.jsonl": "058ea4aa804ada96f5defacdac0f579263e0692444410d9c39d9cce814319293",
+    "human_selection.jsonl": "35dff16bb808af54d5d24b26f0c1c59e6f49a1d3ad810d030e432912db2b7055"
+  },
+  "source_requests_sha256": "498a875a90cb3e461a2de4d5913b7fff4d4f92d979b179c3a75a2b6f6eeaf646",
+  "pillow_version": "11.3.0",
+  "numpy_version": "2.3.2",
+  "png_compress_level": 3,
+  "source_decode_policy": "SHA-bound lossless RGB decoded directly from original JPEGs on human-stimulus platform",
+  "limitations": [
+    "geometry-selected cohort; not all500",
+    "size changes target coverage and donor dimensions together",
+    "other-object overlap in newly placed P not evaluated"
+  ]
+}

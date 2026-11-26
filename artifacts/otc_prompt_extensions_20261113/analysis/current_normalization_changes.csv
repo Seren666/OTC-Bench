@@ -1,0 +1,411 @@
+﻿model,arm,rule,source_request_id,raw_output,target_category,donor_category,condition,scope,old_label,guarded_label
+idefics3,P1,W,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P1,A,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P1,W,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P1,A,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P1,W,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P1,A,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P1,W,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P1,A,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P1,W,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P1,A,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P1,W,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P1,A,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P1,W,val500_231_dining_table__backpack_1__N-near, Orange.,dining table,backpack,N-near,main500,unknown,other
+idefics3,P1,A,val500_231_dining_table__backpack_1__N-near, Orange.,dining table,backpack,N-near,main500,unknown,other
+idefics3,P1,W,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P1,A,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P1,W,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P1,A,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P1,W,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P1,A,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P1,W,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P1,A,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P1,W,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P1,A,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P2,W,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P2,A,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P2,W,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P2,A,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P2,W,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P2,A,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P2,W,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P2,A,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P2,W,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P2,A,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P2,W,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P2,A,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P2,W,val500_231_dining_table__backpack_1__N-near, Orange.,dining table,backpack,N-near,main500,unknown,other
+idefics3,P2,A,val500_231_dining_table__backpack_1__N-near, Orange.,dining table,backpack,N-near,main500,unknown,other
+idefics3,P2,W,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P2,A,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P2,W,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P2,A,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P2,W,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P2,A,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P2,W,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P2,A,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P2,W,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P2,A,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P3,W,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P3,A,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P3,W,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P3,A,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P3,W,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P3,A,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P3,W,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P3,A,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P3,W,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P3,A,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P3,W,val500_231_dining_table__backpack_1__N-near, Orange.,dining table,backpack,N-near,main500,unknown,other
+idefics3,P3,A,val500_231_dining_table__backpack_1__N-near, Orange.,dining table,backpack,N-near,main500,unknown,other
+idefics3,P3,W,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P3,A,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P3,W,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P3,A,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P3,W,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P3,A,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P3,W,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P3,A,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P3,W,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P3,A,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P4,W,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P4,A,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P4,W,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P4,A,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P4,W,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P4,A,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P4,W,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P4,A,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P4,W,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P4,A,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P4,W,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P4,A,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P4,W,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P4,A,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P4,W,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P4,A,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P4,W,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P4,A,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P4,W,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P4,A,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P4,W,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P4,A,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P5,W,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P5,A,val500_150_cup__G, Orange.,cup,,G,main500,unknown,other
+idefics3,P5,W,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P5,A,val500_150_cup__cat_2__T, Orange.,cup,cat,T,main500,unknown,other
+idefics3,P5,W,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P5,A,val500_150_cup__cat_2__N-near, Orange.,cup,cat,N-near,main500,unknown,other
+idefics3,P5,W,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P5,A,val500_150_cup__backpack_1__T, Orange.,cup,backpack,T,main500,unknown,other
+idefics3,P5,W,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P5,A,val500_150_cup__backpack_1__N-near, Orange.,cup,backpack,N-near,main500,unknown,other
+idefics3,P5,W,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P5,A,val500_231_dining_table__O, Orange.,dining table,,O,main500,unknown,other
+idefics3,P5,W,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P5,A,val500_322_bottle__G, Orange.,bottle,,G,main500,unknown,other
+idefics3,P5,W,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P5,A,val500_322_bottle__cake_1__T, Orange.,bottle,cake,T,main500,unknown,other
+idefics3,P5,W,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P5,A,val500_322_bottle__cake_1__N-near, Orange.,bottle,cake,N-near,main500,unknown,other
+idefics3,P5,W,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P5,A,val500_322_bottle__cow_1__T, Orange.,bottle,cow,T,main500,unknown,other
+idefics3,P5,W,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+idefics3,P5,A,val500_322_bottle__cow_1__N-near, Orange.,bottle,cow,N-near,main500,unknown,other
+internvl35,P1,W,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl35,P1,A,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl35,P2,W,val500_322_bottle__cake_1__N-near,Orange.,bottle,cake,N-near,main500,unknown,other
+internvl35,P2,A,val500_322_bottle__cake_1__N-near,Orange.,bottle,cake,N-near,main500,unknown,other
+internvl35,P3,W,val500_322_bottle__cake_1__N-near,Orange.,bottle,cake,N-near,main500,unknown,other
+internvl35,P3,A,val500_322_bottle__cake_1__N-near,Orange.,bottle,cake,N-near,main500,unknown,other
+internvl35,P4,W,val500_490_surfboard__umbrella_2__T,Orange.,surfboard,umbrella,T,main500,unknown,other
+internvl35,P4,A,val500_490_surfboard__umbrella_2__T,Orange.,surfboard,umbrella,T,main500,unknown,other
+internvl35,P5,W,val500_322_bottle__cake_1__N-near,Orange.,bottle,cake,N-near,main500,unknown,other
+internvl35,P5,A,val500_322_bottle__cake_1__N-near,Orange.,bottle,cake,N-near,main500,unknown,other
+internvl14b,P1,W,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P1,A,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P1,W,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P1,A,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P1,W,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P1,A,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P2,W,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P2,A,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P2,W,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P2,A,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P2,W,val500_317_banana__cake_1__T,Orange.,banana,cake,T,main500,unknown,other
+internvl14b,P2,A,val500_317_banana__cake_1__T,Orange.,banana,cake,T,main500,unknown,other
+internvl14b,P2,W,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P2,A,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P3,W,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P3,A,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P3,W,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P3,A,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P3,W,val500_317_banana__cake_1__T,Orange.,banana,cake,T,main500,unknown,other
+internvl14b,P3,A,val500_317_banana__cake_1__T,Orange.,banana,cake,T,main500,unknown,other
+internvl14b,P3,W,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P3,A,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P4,W,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P4,A,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P4,W,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P4,A,val500_317_banana__cow_2__N-near,Orange.,banana,cow,N-near,main500,unknown,other
+internvl14b,P4,W,val500_317_banana__cake_1__T,Orange.,banana,cake,T,main500,unknown,other
+internvl14b,P4,A,val500_317_banana__cake_1__T,Orange.,banana,cake,T,main500,unknown,other
+internvl14b,P4,W,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P4,A,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P5,W,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P5,A,val500_317_banana__G,Orange.,banana,,G,main500,unknown,other
+internvl14b,P5,W,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+internvl14b,P5,A,val500_317_banana__cake_1__N-near,Orange.,banana,cake,N-near,main500,unknown,other
+qwen2b,P1,W,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P1,A,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P1,W,val500_322_bottle__cow_1__T,orange,bottle,cow,T,main500,unknown,other
+qwen2b,P1,A,val500_322_bottle__cow_1__T,orange,bottle,cow,T,main500,unknown,other
+qwen2b,P2,W,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P2,A,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P3,W,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P3,A,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P3,W,val500_490_surfboard__umbrella_2__N-near,ORANGE,surfboard,umbrella,N-near,main500,unknown,other
+qwen2b,P3,A,val500_490_surfboard__umbrella_2__N-near,ORANGE,surfboard,umbrella,N-near,main500,unknown,other
+qwen2b,P4,W,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P4,A,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P5,W,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen2b,P5,A,val500_322_bottle__cake_1__T,orange,bottle,cake,T,main500,unknown,other
+qwen,P1,W,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P1,A,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P1,W,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+qwen,P1,A,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+qwen,P2,W,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P2,A,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P2,W,val500_231_dining_table__backpack_1__T,orange,dining table,backpack,T,main500,unknown,other
+qwen,P2,A,val500_231_dining_table__backpack_1__T,orange,dining table,backpack,T,main500,unknown,other
+qwen,P2,W,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+qwen,P2,A,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+qwen,P4,W,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P4,A,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P4,W,val500_231_dining_table__cat_1__T,orange,dining table,cat,T,main500,unknown,other
+qwen,P4,A,val500_231_dining_table__cat_1__T,orange,dining table,cat,T,main500,unknown,other
+qwen,P4,W,val500_231_dining_table__backpack_1__T,orange,dining table,backpack,T,main500,unknown,other
+qwen,P4,A,val500_231_dining_table__backpack_1__T,orange,dining table,backpack,T,main500,unknown,other
+qwen,P4,W,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+qwen,P4,A,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+qwen,P5,W,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P5,A,val500_231_dining_table__G,orange,dining table,,G,main500,unknown,other
+qwen,P5,W,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+qwen,P5,A,val500_231_dining_table__backpack_1__N-near,orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P1,W,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P1,A,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P1,W,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P1,A,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P1,W,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P1,A,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P1,W,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P1,A,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P1,W,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P1,A,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P1,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P1,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P1,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P1,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P1,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P1,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P1,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P1,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P1,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P1,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P1,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P1,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P1,W,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P1,A,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P1,W,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P1,A,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P1,W,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P1,A,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P1,W,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P1,A,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P1,W,val500_091_bed__cake_1__N-near, Orange,bed,cake,N-near,main500,unknown,other
+llava7b,P1,A,val500_091_bed__cake_1__N-near, Orange,bed,cake,N-near,main500,unknown,other
+llava7b,P2,W,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P2,A,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P2,W,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P2,A,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P2,W,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P2,A,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P2,W,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P2,A,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P2,W,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P2,A,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P2,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P2,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P2,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P2,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P2,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P2,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P2,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P2,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P2,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P2,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P2,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P2,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P2,W,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P2,A,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P2,W,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P2,A,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P2,W,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P2,A,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P2,W,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P2,A,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P3,W,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P3,A,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P3,W,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P3,A,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P3,W,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P3,A,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P3,W,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P3,A,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P3,W,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P3,A,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P3,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P3,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P3,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P3,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P3,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P3,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P3,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P3,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P3,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P3,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P3,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P3,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P3,W,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P3,A,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P3,W,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P3,A,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P3,W,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P3,A,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P3,W,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P3,A,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P3,W,val500_091_bed__cake_1__N-near, Orange,bed,cake,N-near,main500,unknown,other
+llava7b,P3,A,val500_091_bed__cake_1__N-near, Orange,bed,cake,N-near,main500,unknown,other
+llava7b,P4,W,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P4,A,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P4,W,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P4,A,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P4,W,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P4,A,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P4,W,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P4,A,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P4,W,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P4,A,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P4,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P4,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P4,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P4,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P4,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P4,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P4,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P4,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P4,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P4,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P4,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P4,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P4,W,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P4,A,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P4,W,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P4,A,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P4,W,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P4,A,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P4,W,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P4,A,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P4,W,val500_091_bed__cake_1__N-near, Orange,bed,cake,N-near,main500,unknown,other
+llava7b,P4,A,val500_091_bed__cake_1__N-near, Orange,bed,cake,N-near,main500,unknown,other
+llava7b,P5,W,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P5,A,val500_150_cup__O, Orange,cup,,O,main500,unknown,other
+llava7b,P5,W,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P5,A,val500_150_cup__G, Orange,cup,,G,main500,unknown,other
+llava7b,P5,W,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P5,A,val500_150_cup__cat_2__T, Orange,cup,cat,T,main500,unknown,other
+llava7b,P5,W,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P5,A,val500_150_cup__cat_2__N-near, Orange,cup,cat,N-near,main500,unknown,other
+llava7b,P5,W,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P5,A,val500_150_cup__backpack_1__T, Orange,cup,backpack,T,main500,unknown,other
+llava7b,P5,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P5,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava7b,P5,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P5,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava7b,P5,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P5,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava7b,P5,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P5,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava7b,P5,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P5,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava7b,P5,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P5,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava7b,P5,W,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P5,A,val500_322_bottle__G, Orange,bottle,,G,main500,unknown,other
+llava7b,P5,W,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P5,A,val500_322_bottle__cake_1__T, Orange,bottle,cake,T,main500,unknown,other
+llava7b,P5,W,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P5,A,val500_322_bottle__cake_1__N-near, Orange,bottle,cake,N-near,main500,unknown,other
+llava7b,P5,W,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava7b,P5,A,val500_322_bottle__cow_1__T, Orange,bottle,cow,T,main500,unknown,other
+llava13b,P1,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P1,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P1,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P1,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P1,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P1,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P1,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P1,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P1,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P1,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P1,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P1,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P2,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P2,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P2,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P2,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P2,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P2,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P2,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P2,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P2,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P2,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P2,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P2,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P3,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P3,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P3,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P3,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P3,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P3,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P3,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P3,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P3,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P3,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P3,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P3,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P4,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P4,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P4,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P4,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P4,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P4,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P4,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P4,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P4,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P4,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P4,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P4,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P5,W,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P5,A,val500_231_dining_table__O, Orange,dining table,,O,main500,unknown,other
+llava13b,P5,W,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P5,A,val500_231_dining_table__G, Orange,dining table,,G,main500,unknown,other
+llava13b,P5,W,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P5,A,val500_231_dining_table__cat_1__T, Orange,dining table,cat,T,main500,unknown,other
+llava13b,P5,W,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P5,A,val500_231_dining_table__cat_1__N-near, Orange,dining table,cat,N-near,main500,unknown,other
+llava13b,P5,W,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P5,A,val500_231_dining_table__backpack_1__T, Orange,dining table,backpack,T,main500,unknown,other
+llava13b,P5,W,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other
+llava13b,P5,A,val500_231_dining_table__backpack_1__N-near, Orange,dining table,backpack,N-near,main500,unknown,other

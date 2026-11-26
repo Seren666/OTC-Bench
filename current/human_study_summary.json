@@ -1,0 +1,17 @@
+{
+  "participants": {
+    "teacher": 1,
+    "masters_students": 2
+  },
+  "independent": true,
+  "AI_assisted_responses": false,
+  "images": 72,
+  "judgments": 216,
+  "strict_author_coding_matches": 153,
+  "strict_majority_images": 55,
+  "candidate_compatible_matches": 178,
+  "candidate_compatible_majority_images": 61,
+  "evidence_sufficient_judgments": 191,
+  "prior_questionnaire_exposure": 2,
+  "notes": "Image-reading study, not independent semantic audit of new model answers. No participant source forms or personal identifiers published."
+}

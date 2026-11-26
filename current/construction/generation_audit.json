@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "requests": 8112,
+  "pairs": 2496,
+  "geometry_cells": 312,
+  "noncheck_minimal_edits_verified": 7488,
+  "source_files_verified": 120,
+  "human_references_verified": 72,
+  "png_bytes": 3860952716,
+  "unique_RGB_images": 8112
+}

@@ -1,0 +1,89 @@
+{
+  "status": "PASS",
+  "main_primaries": 180000,
+  "extension_primaries": 435120,
+  "P1_P5_primaries": 585120,
+  "main_label_rows": 720000,
+  "extension_label_rows": 1740480,
+  "compared_csv_files": 19,
+  "compared_csv_rows": 144201,
+  "files": [
+    {
+      "path": "artifacts/otc_prompt_main500_20261113/analysis/arm_metrics.csv",
+      "rows": 9840
+    },
+    {
+      "path": "artifacts/otc_prompt_main500_20261113/analysis/prompt_summary.csv",
+      "rows": 1640
+    },
+    {
+      "path": "artifacts/otc_prompt_main500_20261113/analysis/transitions.csv",
+      "rows": 3991
+    },
+    {
+      "path": "artifacts/otc_prompt_main500_20261113/analysis/main_checks_per_prompt.csv",
+      "rows": 13824
+    },
+    {
+      "path": "artifacts/otc_prompt_main500_20261113/analysis/main_checks_summary.csv",
+      "rows": 2304
+    },
+    {
+      "path": "artifacts/otc_prompt_main500_20261113/analysis/donor_checks_per_prompt.csv",
+      "rows": 11520
+    },
+    {
+      "path": "artifacts/otc_prompt_main500_20261113/analysis/donor_checks_summary.csv",
+      "rows": 1920
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/arm_metrics.csv",
+      "rows": 53040
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/prompt_summary.csv",
+      "rows": 13168
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/component_contrasts.csv",
+      "rows": 10200
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/repeat_metrics.csv",
+      "rows": 1200
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/repeat_per_target.csv",
+      "rows": 14400
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/pooled_metrics.csv",
+      "rows": 1400
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/retained43_per_prompt.csv",
+      "rows": 3120
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/retained43_summary.csv",
+      "rows": 624
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/current_budget_scoring_per_prompt.csv",
+      "rows": 740
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/current_budget_scoring_summary.csv",
+      "rows": 740
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/main_scale_comparisons.csv",
+      "rows": 120
+    },
+    {
+      "path": "artifacts/otc_prompt_extensions_20261113/analysis/current_normalization_changes.csv",
+      "rows": 410
+    }
+  ],
+  "dispersion": "mean and sample SD across five wordings, not target-level CI"
+}
